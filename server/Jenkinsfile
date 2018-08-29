@@ -1,0 +1,31 @@
+#!/usr/bin/env groovy
+
+node {
+    def reithProxy = "http://10.184.35.5:80"
+
+    stage('Test') {
+        checkout scm
+
+        docker.image('node:8').inside("""
+          --user root
+          -e http_proxy=${reithProxy}
+          -e https_proxy=${reithProxy}
+        """) {
+          sh 'cd server && npm install && npm run test'
+        }
+    }
+
+    stage('Build') {
+        checkout scm
+
+        def serviceImage = docker.build("newslabs/hotfuzz:latest", "./server")
+
+        docker.withRegistry('https://artifactory-noforge.virt.ch.bbc.co.uk:8443', 'rd_artifactory_key') {
+            serviceImage.push("latest")
+        }
+    }
+
+    stage('Cleanup') {
+      sh 'docker image prune --all --force'
+    }
+}

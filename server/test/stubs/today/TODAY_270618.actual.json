@@ -1,0 +1,442 @@
+[
+  {
+    "story": "EARLY MORNING TRAFFIC PROBLEMS",
+    "script": "In the event of not being able to contact Traffic ring the Rec Chief on 43110. If you get no response ring the DOM.",
+    "start": null
+  },
+  {
+    "story": "CON HANDOVER",
+    "script": "You are listening to BBC Radio 4.",
+    "start": null
+  },
+  {
+    "story": "GOOD MORNING  Martha-MK + Read",
+    "script": "It's six o'clock on Wednesday the 27th of June\nThis is TODAY with John Humphrys and Martha Kearney.",
+    "start": 1.61
+  },
+  {
+    "story": "HEADS & MENU  John-JH + Read + Clips",
+    "script": "The headlines this morning:\nPlans for five new women's prisons in England and Wales have been dropped. The govt wants to send fewer women to jail.\nThe Treasury minister, Liz Truss, has publicly mocked Michael Gove, for wanting to stop the use of wood burning stoves. \nAlso in today's programme.\nTony Blair on Europe's migration crisis\nAnd the president of Zimbabwe, Emerson Mnangagwa, on why he doesn't deserve his nickname \"The Crocodile\".\nThe BBC news is read by Zeb Soanes",
+    "start": 8.23
+  },
+  {
+    "story": "Q Prisons-Summs",
+    "script": "The government has scrapped plans for five new women's prisons in England and Wales - saying it will, instead, build residential centres which provide help in getting a job, and treating drug addiction.  The Justice Secretary, David Gauke, said there should be more use of community sentences for women convicted of low-level offences.  Our home affairs correspondent, June Kelly reports:",
+    "start": 9.42
+  },
+  {
+    "story": "Q Zimbabwe-Keane",
+    "script": "The President of Zimbabwe, Emmerson Mnangagwa, has said he suspects a group which supported the former First Lady, Grace Mugabe, was behind the recent attempt on his life.  Two people were killed when a device exploded close to the President at a rally on Saturday. Mr Mnangagwa came to power last November, when the military forced out Robert Mugabe.  He's been speaking to our Africa Editor, Fergal Keane:",
+    "start": 27.9
+  },
+  {
+    "story": "Q Truss-Watson",
+    "script": "A senior government minister has publicly criticised her Cabinet colleagues for introducing too many regulations, and interfering in people's lives. In a speech in London, the Chief Secretary to the Treasury, Liz Truss, made a joke mocking the Environment Secretary, Michael Gove, for proposing restrictions on wood-burning stoves.  Here's our political correspondent, Iain Watson:",
+    "start": 157.56
+  },
+  {
+    "story": "Q Fires-Read + Clip",
+    "script": "More than thirty homes have been evacuated in Stalybridge in Greater Manchester because of a fire on nearby Saddleworth Moor. The blaze has been declared a major incident and the Army is on standby to help. Smoke has been drifting over Manchester, and some residents have been urged to keep their windows and doors closed. The dry hills have been burning since Sunday. These firefighters have been tackling the flames:",
+    "start": 218.06
+  },
+  {
+    "story": "Rohingya-Read",
+    "script": "Amnesty International says it has evidence that the Burmese military had been preparing for an offensive against the Rohingya people, before a series of attacks by militants on the security services last August. The army has always insisted its operation - which led to the flight of seven hundred thousand people - was a response to a specific terrorist threat.",
+    "start": 256.4
+  },
+  {
+    "story": "Q Care-McCamiley",
+    "script": "The government's being urged to change the way social care is funded in England, by introducing a new levy paid by both employers and older workers.  A cross-party group of MPs has warned that the current arrangements in England are unsustainable. Frankie McCamley reports.",
+    "start": 277.78
+  },
+  {
+    "story": "William-Read",
+    "script": "Prince William will today meet the Palestinian President, Mahmoud Abbas, in Ramallah as part of his tour of the Middle East. Israel's President asked the Duke of Cambridge to take a message of peace to the meeting. Buckingham Palace has said this is a non-political trip, but that the Prince is keen to learn about the political situation.",
+    "start": 332.54
+  },
+  {
+    "story": "WEATHER  Martha-Philip Avery",
+    "script": "Now for the weather forecast over to Philip Avery at the BBC Weather Centre",
+    "start": 352.82
+  },
+  {
+    "story": "PAPERS  John and Martha-MK + JH + Read",
+    "script": "JOHN:\nAnd now for a look at this morning's papers.",
+    "start": 457.56
+  },
+  {
+    "story": "CABINET  Martha-MK + Read + Norman Smith",
+    "script": "MARTHA:\nPolitical jokes are rather dangerous. For a start they are often not very funny. And poking fun at colleagues can backfire. The Treasury Minister Liz Truss has been mocking Michael Gove's pledge on woodburning stoves. And in a speech last night hit out at Cabinet ministers who demand more funding. \nOur Assistant Political Editor NORMAN SMITH\n+ sees herself as disruptor in chief?\n+ swipe at Michael Gove\n+ line lost about plastic straws?\n+ loss of Cabinet discipline?",
+    "start": 592.43
+  },
+  {
+    "story": "MIGRATION  John-JH + Read + Gavin Lee",
+    "script": "JOHN:\nFrance and five other EU countries have agreed to accept a share of the migrants stranded on a rescue ship in the Mediterranean.\nlive Gavin Lee",
+    "start": 805.4
+  },
+  {
+    "story": "BUSINESS HEADS  Martha-Dominic O'Connell",
+    "script": "Donald Trump's trade wars are casting a long shadow over world markets - and have prompted a backlash at home - here's Dominic with that and the rest of the business news.\nThanks.",
+    "start": 958.17
+  },
+  {
+    "story": "US TRADE-Todd Bucholz",
+    "script": "Donald Trump's trade wars are casting a long shadow over world markets - and have prompted a backlash at home - here's Dominic with that and the rest of the business news.\nDOM - Yes Asian markets were down a bit yesterday but he big development is a letter from just about every US  industrialist group - 51 trade bodies in total - asking Congress to stop Trump. They want a new law that would mean Congress has to approve any new tariffs - the letter says that retaliatory tariffs from trading partners \"will have serious negative economic impacts on the United States.\"\nTODD BUCHHOLZ  - former White House Director of Economic Policy under George H W Bush  - EX S33\nMr Buchholz - is Congress likely to accept that invitation?\nTrump enouraged, not cowed? Cars next?\nWhat about retailatory action\nHarley Davidson - head office in Wisconsin which voted Trump 47.9% by one percent! And he threatens to tax them\nReal effect on world economy",
+    "start": 958.17
+  },
+  {
+    "story": "CO2-Shraddha Kaul",
+    "script": "Now the shortage of carbon dioxide - a Europe-wide shortage - is causing problems for production of beer and other fizzy drinkgs - during a World Cup, of course - but there are also problems for other food producers. We reported yesterday how Scotland's only pig abbatoir has been forced to close - it uses CO2 to stun pigs - and there are also problems for poultry processors\nShraddha Kaul  from the British Poultry Council EX S33\n- What do poultry companies use carbon dioxide for?\n- When did they start to run short?\n-= Have any had to stop killing birds\n- What about animal welfare?\nWhen will it come back on line\nIt looks like the situation will ease next week?\nThank you Shraddah Kaul from the British Poultry Council.",
+    "start": 1241.94
+  },
+  {
+    "story": "MARKETS-Russ Mould",
+    "script": "My markets guest this morning is Russ Mould - AJ Bell Investment Director EX S33\nHow the mighty have fallen - GE - General Electric has been for as long as I can remember America's mightiest industrial company - doing everything from aircraft engines to plastics, insurance - it even had a bank. And now it is being broken up - it is going to roughly halve in size\n- Why has GE fallen from grace? 1% of the US economy\nLessons for Apple and Facebook \nin 2000, $60/$13\nCarpetright - a 뿯½71m loss - what is the role played by the fund manager Meditor?\n- Bank of America shifts more staff to Paris - where are we with the Brexodus? And Ferrovial, the owner of Heathrow, is moving its international office out of London to Amsterdam because it wants to keep it in the EU.\nTheresa May says she always listens to business - do we believe her?\n뿯½390,000 Bank of England travel expenses row Donald Kohn and Anil Kashyap - travelling to and from America. An 11k fight - suggests they are at least booking at the last minute.",
+    "start": 1641.4
+  },
+  {
+    "story": "SPORT John-Rob Bonnet",
+    "script": "And now here's Rob Bonnet with the sports news.\nYour World Cup round up to start and a close call for two time Champions Argentina who were only a few minutes from elimination before a late goal from an unlikely source produced a 2-1 win against Nigeria. Correspondent John Murray reports.\nThe result left Argentina in Group D's second place behind Croatia who completed a 100% record by beating Iceland, also by 2 goals to 1.  Croatia will meet Denmark in the last 16 while Argentina will play France.the Danes and the French had earlier played out a goal-less draw that ensured their mutual progress from Group C where Peru defeated Australia 2-0.\nToday's biggest games involve five time champions Brazil and Germany who've won the World Cup four times.Brazil play Serbia, Germany meet South Korea.neither are yet certain of making the last 16.\nMeanwhile, it's England versus Australia in a one-off T20 cricket international this evening at Edgbaston. The Aussies will be led by Aaron Finch, who's sounding optimistic despite that recent 5-0 whitewash in the 50 over format. \nAnd at the tennis in Eastbourne, a 6-1, 6-3 win for Johanna Konta against Aleksandra Krunic.Konta next plays Caroline Wozniacki today. Also today, it's Andy Murray against Kyle Edmund, who's replaced him as British number one. But also at Wimbledon, a decision on whether to seed Serena Williams for the women's singles. She's ranked 181st in the world after her prolonged absence but if she IS seeded, the current world number 32 Dominika Cibulkova will be very disappointed.   \nCarlisle 2.30: 7. Diva D\nCarlisle 3.30: 11. Alejandro",
+    "start": 1645.3
+  },
+  {
+    "story": "RADIO 4 TRAIL 1  Martha-Trail",
+    "script": ".... This Saturday BBC Radio 4 looks at the arguments that raged over the creation of the NHS.",
+    "start": 1810.38
+  },
+  {
+    "story": "PROGRAMME IDENT  John-Read",
+    "script": "Now the time is.\nYou are listening to TODAY on BBC Radio 4 with Martha Kearney and John Humphrys.         \nAnd now a summary of the news from Zeb Soanes",
+    "start": 1854.76
+  },
+  {
+    "story": "NEWS SUMMARY 0630-Zeb Soanes",
+    "script": "The government is scrapping plans to build five community prisons for women in England and Wales. The Ministry of Justice says it will instead open the same number of residential centres - which will offer female offenders support in finding work and housing. Women currently make up around five per cent of the prison population.\nA senior government minister has publicly criticised her Cabinet colleagues for introducing too many rules and regulations. In a speech last night, the Chief Secretary to the Treasury - Liz Truss - made a joke mocking the Environment Secretary, Michael Gove, for proposing a ban on wood-burning stoves. \nZimbabwe's President, Emmerson Mnangagwa, has told the BBC he suspects a group which supported the former First Lady, Grace Mugabe, was behind the recent attempt on his life.  Two people were killed and dozens wounded when a device exploded close to the President at a rally on Saturday. \nMore than 30 homes have been evacuated as a fire on Saddleworth Moor continues to spread. Greater Manchester Police says the blaze, which started on Sunday, has been declared a major incident.\nThe government is being urged to change the way social care is funded in England - by introducing a new levy paid by employers and workers aged over 40. Two cross-party groups of MPs have warned that the current arrangements are unsustainable.\nA report drawn up for the BBC to mark the 70th anniversary of the creation of the NHS says the government should act more boldly to encourage people to adopt healthier lifestyles. It says the success of the smoking ban and sugar tax shows people don't object to such measures.\nHeavy rains are continuing to hamper efforts to find a group of young football players and their coach who are missing inside a cave in Thailand. Rescue workers have been fighting a losing battle to pump water from the cave network. \nPrince William is to meet the Palestinian President, Mahmoud Abbas, in Ramallah as part of his tour of the Middle East. Israel's President has asked the Prince to take a message of peace to the meeting.",
+    "start": 1868.47
+  },
+  {
+    "story": "BUSINESS  John-JH + Read + Kamal Ahmed",
+    "script": "The division in the cabinet over what sort of Brexit we should have seems to be growing - fed, in part, by what the business secretary Greg Clark has been saying. \nlive Kamal Ahmed",
+    "start": 1979.73
+  },
+  {
+    "story": "PRISONS  Martha-MK  + Read + Zoe Conway",
+    "script": "There should be fewer women in jail  - according to the government. So ministers have decided not to build new prisons for female offenders.\nOur reporter Zoe Conway is here.\n+ why against custodial?\n+ building what instead?\nJustice Sec Gauke later\n.",
+    "start": 2201.36
+  },
+  {
+    "story": "OPCW  John-JH + Read + James Landale",
+    "script": "The stage is set for a new diplomatic battle between Russia and the west over whether extra powers should be given to the international chemical weapons watchdog.\nlive James Landale",
+    "start": 2345.95
+  },
+  {
+    "story": "PAPERS  Martha and John-MK + JH + Read",
+    "script": "MARTHA: Now, time for a look at today's papers and news websites.   \nThe business secretary, Greg Clarke, has been accused of sowing the seeds of panic, says THE DAILY TELEGRAPH, after urging industry leaders to use their influence to help soften Brexit.  A former Brexit minister, David Jones, complains that Cabinet ministers shouldn't be taking their lead from businesses -- rather they should be setting the policy and communicating a sense of reassurance.  \nTHE SUN reports that Theresa May will be \"hauling\" her full cabinet to Chequers to try to settle the deadlock over an EU customs deal.  The BLOOMBERG website says while the Prime Minister is facing mounting pressure to spell out her vision for Britain's future relationship with EU, she must first reach consensus with her squabbling cabinet and party.  \nTHE TIMES believes that cracks are emerging not just within the Cabinet -- but also in the EU's united front on Brexit.  It says the European Commission is hostile to Theresa May's plans to follow single market rules for parts of the economy, such as goods, because it would amount to cherry picking the rules.  But most European governments, with the exception of Germany -- reports THE TIMES -- are understood to be more pragmatic about the idea.\n'A Green Light to Criminals' is THE DAILY MAIL's response to an idea put forward by the justice minister, Rory Stewart, that prison sentences of less than a year should be scrapped -- for all but the most serious offences.  Mr Stewart believes that community orders are preferable but a former member of the Justice Committee tells THE MAIL the plan is \"idiotic\".  THE DAILY MIRROR fears that the idea is driven by cost-cutting rather than a desire to do what is best for society and victims of crime.\nLabour is considering plans to slash the number of MPs needed to nominate a leadership candidate according to THE GUARDIAN.  The proposals, to be put forward at the party conference in September, would hand new powers to members and trade unions.  A source tells the paper the change would virtually guarantee a left-wing candidate could succeed Jeremy Corbyn.\nTHE DAILY EXPRESS reports that the Duke of Cambridge was cast in the unfamiliar role of Middle East peacemaker when Israel's president asked him to take a message of hope to the Palestinian Premier.  THE DAILY TELEGRAPH says it would be nice to think the Prince might have helped to advance the search for a political settlement in a troubled region.",
+    "start": 2503.79
+  },
+  {
+    "story": "HEADS 0645  Martha-MK + Read",
+    "script": "MARTHA:\nThe Government is setting out a new approach to dealing with women who commit minor offences in England and Wales, scrapping five prisons in favour of residential centres.",
+    "start": 2640.42
+  },
+  {
+    "story": "YIP  John-JH + Read + Hulme Pkg YIP",
+    "script": "'Where's Boris?' was the parlour game played at Westminster on Monday night.  Boris Johnson was in fact on an overseas trip at the time MPs were voting on Heathrow Airport's third runway. Come Tuesday, however, he was back in the Commons, as our parliamentary correspondent Susan Hulme now explains.\nBACK ANNO: And there'll be more from Yesterday in Parliament just after half past eight over on Long Wave and on digital radio.",
+    "start": 2651.51
+  },
+  {
+    "story": "PUZZLE  Martha-MK + Read",
+    "script": "Today's #PuzzleForToday has been set by Bobby Seagull, a school Maths teacher and Cambridge University Doctorate student. His book, The Life Changing Magic of Numbers will be published in October.\nOn this day of 27th June back in 1743, it was the last time a British monarch personally led his troops on the field. King George II commanded troops at the Battle of Dettingen during the War of Austrian Succession. The size of a battalion is four times larger than a squadron. There were 15 battalions and 20 squadrons and a total of 20,000 soldiers. What is the size of one battalion and one squadron?",
+    "start": 2961.18
+  },
+  {
+    "story": "BAVARIA  John-JH + Hill Pkg",
+    "script": "Europe's leaders will come together in Brussels tomorrow to thrash out a common migration strategy. The German Chancellor, Angela Merkel, is arguably under the most pressure to deliver.  She faces open rebellion at home from her Bavarian coalition partners who are demanding a tougher asylum policy. But what's so unique  - so powerful - about this southern german state?  Our Berlin correspondent Jenny Hill has been to the small Bavarian town of Abensberg.",
+    "start": 3004.77
+  },
+  {
+    "story": "FIRE Martha-MK + Read+ Clip + Dave Guest",
+    "script": "MARTHA:\nA huge moorland fire has forced people to spend the night away from their homes\n- as the Greater Manchester blaze continues to spread.\nThis is how one man Ian, who lives near Saddleworth described the scene last night\nReverend Chris Finney has opened his church - St James' in Millbrook  to people unable to go home\nDAVE GUEST, is our correspondent on Saddleworth Moor x TFC",
+    "start": 3269.45
+  },
+  {
+    "story": "WEATHER 57 15  John-Phil Avery",
+    "script": "Now for the weather forecast -here's Phillip Avery",
+    "start": 3432.47
+  },
+  {
+    "story": "RADIO 4 TRAIL 2  Martha-MK + Clip",
+    "script": ".... Let's hear about the wealth of BBC programmes available on digital radio.",
+    "start": 3533.21
+  },
+  {
+    "story": "PROG TRAIL 0659  John-JH + Read",
+    "script": "In the next hour of the programme.\nWhat's happened to Cabinet unity?\nAnd the president of Zimbabwe on why he's too \"soft\" to be nicknamed The Crocodile.\nIf you want to get in touch you can follow us on facebook or twitter and use the hashtag r4today \nOn email we're Today AT bbc DOT co DOT UK",
+    "start": 3579.11
+  },
+  {
+    "story": "PROG IDENT & HEADS  Martha-JH + Read",
+    "script": "You're listening to TODAY on BBC Radio 4, with John Humphrys and Martha Kearney.\nIt's seven o'clock on Wednesday the 27th of June\nThe headlines.\nThe Government has signalled a new strategy for dealing with most female offenders in England and Wales, which favours community sentences over prison.\nThe Chief Secretary to the Treasury, Liz Truss, has launched an extraordinary attack on Cabinet colleagues who she says are introducing too many rules and regulations.     \nThe President of Zimbabwe has told the BBC he believes supporters of Grace Mugabe were behind an attempt on his life.     \nThe BBC news is read by Zeb Soanes",
+    "start": 3589.84
+  },
+  {
+    "story": "Q PRISONS-Kelly",
+    "script": "The government has scrapped plans for five new women's prisons in England and Wales - saying it will, instead, build residential centres which provide help in getting a job, and treating drug addiction.  The Justice Secretary, David Gauke, said there should be more use of community sentences for women convicted of low-level offences.  Yesterday, the prisons minister Rory Stewart said he would like to see nearly all prison sentences of less than 12 months scrapped.  Figures show that women -- who make up just five per cent of the prison population -- are more likely than men to re-offend in the year after serving a short jail term.  Our home affairs correspondent, June Kelly reports:",
+    "start": 3633.95
+  },
+  {
+    "story": "Q TRUSS-Watson",
+    "script": "A senior government minister has publicly criticised her Cabinet colleagues for introducing too many regulations. In a speech in London, the Chief Secretary to the Treasury, Liz Truss, made a joke mocking the Environment Secretary, Michael Gove, who has proposed restrictions on wood-burning stoves.  Here's our political correspondent, Iain Watson:",
+    "start": 3719.64
+  },
+  {
+    "story": "Q ZIMBABWE-Keane",
+    "script": "Zimbabwe's President, Emmerson Mnangagwa, has told the BBC he suspects a group which supported the former First Lady, Grace Mugabe, was behind the recent attempt on his life.  Two people were killed and dozens wounded when a device exploded close to the President at a rally on Saturday. Mr Mnangagwa came to power last November, when the military forced out Robert Mugabe.  He's been speaking to our Africa Editor, Fergal Keane:",
+    "start": 3795.26
+  },
+  {
+    "story": "FIRES-Read",
+    "script": "More than thirty homes have been evacuated in Stalybridge in Greater Manchester because of a fire on nearby Saddleworth Moor. The blaze has been declared a major incident and the Army is on standby to help. Residents have been urged to keep their windows and doors closed.",
+    "start": 3881.82
+  },
+  {
+    "story": "Q CARE-McCamiley",
+    "script": "The Government's being urged to change the way social care is funded in England, by introducing a new levy paid by both employers and older workers.  A cross party group of MPs has warned that the current arrangements in England are unsustainable. Frankie McCamley reports.",
+    "start": 3896.11
+  },
+  {
+    "story": "Q NHS-Summs",
+    "script": "A report drawn up for the BBC to mark the seventieth anniversary of the creation of the NHS has said the government should act more boldly to encourage people to adopt healthier lifestyles. Four major think tanks -- including the King's Fund and the Nuffield Trust -- say the success of the smoking ban and the sugary drinks tax show that people do not object to the \"nanny state\". Here's our health correspondent, Dominic Hughes:",
+    "start": 3950.97
+  },
+  {
+    "story": "US MIGRANTS-Read",
+    "script": "A judge in California has ruled that all families of illegal immigrants separated at the US border must be reunited within thirty days.  The judge in San Diego said children under five must be back with their parents within fourteen days.   Last week President Trump issued an executive order ending family separations, but it's been unclear when and how those already split up would be brought back together.",
+    "start": 4008.16
+  },
+  {
+    "story": "Q ROHINGYA-Beake",
+    "script": "The campaign group, Amnesty International, says it has evidence that the military in Myanmar had been preparing for an offensive against the Rohingya people, before a series of attacks by militants on the security services last August.   The army has always insisted its operation - which prompted seven hundred thousand people to flee - was a response to a specific terrorist threat. Here's our Myanmar Correspondent, Nick Beake.",
+    "start": 4033.11
+  },
+  {
+    "story": "CAVE-Read",
+    "script": "Heavy rain is continuing to hamper efforts to find a group of young football players and their coach who are missing inside a cave in Thailand.  The Thai navy has brought electric pumps to drain water out of the cave network. But almost constant downpours are limiting their impact. There has been no confirmed contact with the twelve boys and their coach since they disappeared on Saturday.",
+    "start": 4092.14
+  },
+  {
+    "story": "WILLIAM-Read",
+    "script": "Prince William will today meet the Palestinian President, Mahmoud Abbas, in Ramallah as part of his tour of the Middle East. Israel's President asked the Duke of Cambridge to take a message of peace to the meeting. Buckingham Palace has said this is a non-political trip, but that the Prince is keen to learn about the political situation.",
+    "start": 4112.35
+  },
+  {
+    "story": "CABINET  John-JH + Read + Clip + Vaizey",
+    "script": "Michael Gove is against plastic straws. He wants to ban them. He also wants to stop us using wood-burning stoves because of the pollution they cause. Mr Gove is, of course, the environment secretary. Liz Truss is also a member of the cabinet and she's made it clear that she does not agree with Michael Gove.  Here's part of what Ms Truss said.",
+    "start": 4132.03
+  },
+  {
+    "story": "PRISONS  Martha-MK + Read + Conway Pkg",
+    "script": "It's known as the revolving door: where women rotate in and out of prison - half of female prisoners will re-offend within a year of being released.\n The Government says it's time to break the cycle. \n They have ditched plans to build 5 community prisons. and will pilot  \n residential women's centres instead.\n That will also save millions of pounds for the Justice department and prison campaigners say the money should be channelled into rehabilitation.  Our reporter, Zoe Conway, has been to a women's centre to see how they operate.",
+    "start": 4443.49
+  },
+  {
+    "story": "ZIMBABWE  John-JH + Read + Fergal Keane + Clip",
+    "script": "Emerson Mnangagwa became president of Zimbabwe six months ago. At the weekend an attempt was made to kill him. A bomb was set off at a public meeting he attended. He's been talking about it in an interview with Our Africa Editor, Fergal Keane.",
+    "start": 4700.96
+  },
+  {
+    "story": "TERROR  Martha-MK + Read + Chris Phillips",
+    "script": "He was just yards from Downing Street.armed with three blades before being intercepted by armed police.\n So how did Khalid Ali, trained as a bomb-maker in Afghanistan get so close to the centre of government?\n He has now been convicted of preparing an act of terrorism and two counts of possessing an explosive substance with intent. \n CHRIS PHILLIPS, was Head of the National Counter Terrorism Security Office until 2011. \n Police: \"He is an incredibly dangerous individual who had returned from a terrorist\n training camp in Afghanistan with a determination to kill, we believe, police,\n the military or Parliamentarians in the UK.\"\n + Why did the police not arrest him sooner? \n + Could they not have used a terrorism control order  when he arrived back in the UK and it emerged that he was linked to bombings in Afghanistan?\n + focus on terrorists returning to the UK from Syria, but Khalid Ali had been with the Taliban in Afghanistan. Need to take that more seriously?\n + others like him?",
+    "start": 4947.89
+  },
+  {
+    "story": "BIZ  UBER  John-JH +  Dom + Caroline Pidgeon",
+    "script": "Uber has got its licence back in London - but it is clearly on probation - here's Dominic\n DOM: Yes a judge has renewed the licence - but only for 15 months. Transport for London said in September that it was going to revoke the licence after uncovering several failings on the part of the operator\n CAROLINE PIDGEON, Chair of the London Assembly's Transport Committee, EX FACETIMEx\n Caroline - what was your reaction to the decision - the right one, or do you still have concerns?\n You helped uncover the failings - including not reporting incidents to police - do you think they have changed their spots?\n 40,000 drivers - are they too big to ban?\n More operators?\n Breaking news - the latest house price moves from Nationwide for year - year on year house prices in London fell by 1.9% - nationally they were up 2%, that's the slowest in five years",
+    "start": 5110.71
+  },
+  {
+    "story": "SPORT  Martha-Rob Bonnet",
+    "script": "MARTHA: \n And now here's Rob Bonnet with the sports news\n For Argentina a very close World Cup call last night before Manchester United's Marcos Rojo turned up with a late winner to beat Nigeria 2-1 and take the side through to the last 16. Earlier the Argentina captain Lionel Messi had finally made his impact on this World Cup with a stunning goal.here's Argentine international Pablo Zabaleta on Messi.\n In the last 16, Argentina will meet France who played out a lifeless nil-nil draw with Denmark who'll meet Croatia.THEY beat Iceland 2-1. And big games today for Brazil who play Serbia and Germany up against South Korea.a draw good enough for Brazil to progress but maybe not enough for Germany.\n It's England versus Australia this evening at Edgbaston in a one-off Vitality T20 cricket international.it's the Aussies' final match of their short tour here after that 5-0 whitewash by England in the one-dayers. Former England batsman James Taylor will be part of the Test Match Special commentary team.any reason to expect Australia to be more successful this evening than they were in the 50 over format?\n British interest in the Eastbourne tennis focusses on Andy Murray's match-fitness against the man who replaced him as British number one Kyle Edmund and a further check on the pre-Wimbledon form of Johanna Konta who meets former world number one Caroline Wozniaki\n Carlisle 2.30: 7. Diva D\n Carlisle 3.30: 11. Alejandro",
+    "start": 5287.92
+  },
+  {
+    "story": "RADIO 4 TRAIL  John-JH + Read + Michael Buerk",
+    "script": ".... Let's hear from Michael Buerk as he joins us with a look ahead to eight o'clock tonight - and The Moral Maze.\n approx\n ***LIVE***LIVE*** MICHAEL BUERK LIVE EX ISDN VIA LCR",
+    "start": 5510.83
+  },
+  {
+    "story": "WEATHER 1  Martha-MK + Read",
+    "script": "A look at the weather.\n SHORT\n Early mist and low cloud in the east. Otherwise sunny and very warm\n LONG\n Early patches of mist, fog and low cloud in the east will clear fairly quickly to leave a sunny day across all areas. Becoming very warm in many areas, cooler near the east coast",
+    "start": 5578.08
+  },
+  {
+    "story": "PROGRAMME IDENT  John-JH + Read",
+    "script": "JOHN:\n You are listening to TODAY on Radio 4 with Martha Kearney and John Humphrys.\n And now a summary of the news from Zeb Soanes",
+    "start": 5582.31
+  },
+  {
+    "story": "NEWS SUMMARY 07 30 00-Zeb Soanes",
+    "script": "The government has scrapped plans for five new women's prisons in England and Wales - saying it will, instead, build residential centres which provide help in getting a job and treating drug addiction.  The Justice Secretary, David Gauke, said there should be more use of community sentences for women convicted of low-level offences.  \n A senior government minister has publicly criticised her Cabinet colleagues for introducing too many rules and regulations. In a speech last night, the Chief Secretary to the Treasury - Liz Truss - made a joke mocking the Environment Secretary, Michael Gove, for proposing a ban on wood-burning stoves. \n The president of Zimbabwe, Emmerson Mnangagwa, has told the BBC he suspects a group which supported the former First Lady, Grace Mugabe, was behind the recent attempt on his life.  Two people were killed, and dozens wounded, when a device exploded close to the President at a rally on Saturday.\n More than thirty homes have been evacuated in Stalybridge in Greater Manchester - because of a fire on nearby Saddleworth Moor. The blaze has been declared a major incident and the army is on standby to help.\n The government is being urged to change the way social care is funded in England - by introducing a new levy paid by employers and workers aged over 40. Two cross-party groups of MPs have warned that the current arrangements are unsustainable.\n A report drawn up for the BBC to mark the 70th anniversary of the creation of the NHS says the government should act more boldly to encourage people to adopt healthier lifestyles. It says the success of the smoking ban and sugar tax shows people don't object to such measures.\n A judge in California has ruled that all families of illegal immigrants separated at the US-Mexico border must be reunited within 30 days.  The judge in San Diego said children under five must be back with their parents within 14 days.\n A piece of a fatberg put on show at the Museum of London has proved so popular with visitors that it could be preserved for future generations. The lump of congealed fat was taken from a so-called \"monster fatberg\", weighing 130 tonnes, which had been blocking sewers in east London.",
+    "start": 5590.31
+  },
+  {
+    "story": "SPENDING  John-JH + Read + Paul Johnson",
+    "script": "It's one of the oldest questions in politics - and the party that gets the right answer tends to win the election. How much are we prepared to fork out in taxes to pay for all the things the govt wants to do? And how much fuss should individual ministers make if they think their department isn't getting enough? There's an awful lot of shouting going on at the moment - most of it from the defence secretary. Too much according to the chief secretary of the Treasury. So what should we make of it all. and how much money  can they be given before our tax bills have to rise?\n live Johnson",
+    "start": 5715.47
+  },
+  {
+    "story": "PAPERS  Martha and John-MK + JH + Read",
+    "script": "MARTHA: Now, time for a look at today's papers and news websites.  \n THE TIMES accuses the Chief Secretary to the Treasury, Liz Truss, of mocking her colleagues during what it describes \"a bombastic, free-wheeling speech\".  THE DAILY TELEGRAPH considers direct criticism of Michael Gove's environment policies to be a further breakdown of Cabinet discipline.  The POLITICS HOME website describes the attack by Liz Truss as \"extraordinary\" and says her comments lay bare the deep splits within Theresa May's team.  \n THE FINANCIAL TIMES is among the papers to report that two members of the Bank of England's Financial Policy Committee ran up travel expenses of nearly four hundred thousand pounds in two and a half years.  The FT says the bank's governing body defended the expenses in the face of criticism from the Treasury Select Committee -- insisting while the spending had been \"staggering\" so had the contribution made by the two men. But the paper thinks the figure raises questions about the central bank's internal cost controls.  THE DAILY MAIL says the row is awkward for the Bank after years of low interest rates that have hammered savers.  \n THE GUARDIAN considers a decision by the US Supreme Court to uphold President Trump's travel ban on several Muslim-majority countries as a significant victory for the administration.  The POLITICO website says the Court \"affirmed the President's vast powers over national security matters\" at the end of a protracted legal battle. THE WASHINGTON POST and THE NEW YORK TIMES agree the ruling is a major affirmation of presidential power.  The FT labels it a \"big victory\" for Mr Trump but quotes the American Civil Liberties Union saying the ruling will go down in history as one of the Supreme Court's \"greatest failures\".   \n There's reaction to another ruling made yesterday -- which granted Uber a temporary licence to continue operating in London.  In a letter to THE TIMES, members of the parliamentary group on taxis say that the company's \"PR stunts\" haven't convinced them that Uber is \"a fit and proper operator\".  They say they don't believe that any of the tweaks to its business model have fundamentally changed how it operates.\n Most of the papers continue their celebration of the heat wave with picture of swimmers, sunbathers and general relaxation.  But THE INDEPENDENT says a level two heatwave alert issued by the Met Office means social and health care services should prepare to take action.  For the THE DAILY STAR it's a Killer Heatwave which has left three people dead.  THE DAILY EXPRESS declares that roads are melting and it's \"hell on the rails\".",
+    "start": 6059.35
+  },
+  {
+    "story": "ELTON          Martha-MK + Read + Clip + Ben Elton",
+    "script": "Ben Elton first made his name more than thirty years ago as a writer of the Young Ones and a stand-up comic in a sparkly suit, berating Thatcher's Britain. In later years, he's turned his eye to society on another side of the world, his adoptive home Australia.\n His latest film Three Summers is set  at a fictional music festival in Australia - Westifal.\n The film has its UK premiere at the Edinburgh Film festival tonight and will be shown on the BBC later\n + based on a festival that you have enjoyed visiting with your family?\n + dare to subvert Waltzing Matilda?\n + one review picks political themes. Issue of race.\n + view of debate here about diversity?\n + would Young Ones get commissioned now? \n + been worried about future of the sit com? \n The world of comedy has been facing a heated debate - as Mrs Merton would put it -  about diversity after the BBC's head of comedy said Monty Python's white Oxbridge males were out of step with modern television. John Cleese retorted.to demonstrate solidarity with the suffragettes 91.6 per cent of the people we ridiculed were male.\n So how much should comedy reflect the diversity of the country or is that social engineering?\n BEN ELTON made his name on programmes like The Young Ones and Blackadder before moving to Western Australia in 2004.",
+    "start": 6205.67
+  },
+  {
+    "story": "TFTD John-JH + Akhandadhi Das",
+    "script": "Now it's time for THOUGHT FOR THE DAY.  The speaker in our Cardiff studio this morning is:  Vaishnav Hindu teacher and theologian, Akhandadhi Das\n That was THOUGHT FOR THE DAY with: Akhandadhi Das\n over optomisum",
+    "start": 6449.66
+  },
+  {
+    "story": "PRISONS 2  Martha-MK + Read + David Gauke",
+    "script": "The government has cancelled plans to spend an estimated fifty million pounds on a new community prison building programme for women. Instead it is spending three and a half million on a pilot for residential centres.  \n Prison campaigners have welcomed the change of approach from custodial centres but question whether sufficient resources are available.\n The Justice Secretary DAVID GAUKE joins us.",
+    "start": 6634.97
+  },
+  {
+    "story": "WEATHER 57 15  John-Philip Avery",
+    "script": "Now for the weather forecast here is Philip Avery",
+    "start": 6846.3
+  },
+  {
+    "story": "R4 TRAIL  Martha-MK + Read + Clip",
+    "script": ".... As part of the BBC's \"NHS @ 70\" - this Friday morning on Radio 4,  Michael Sheen looks at the life of Aneurin Bevan.",
+    "start": 7132.52
+  },
+  {
+    "story": "PROG TRAIL  0759  John-JH + Read",
+    "script": "In the next hour of the programme\n Can the EU solve its migration crisis? We'll put that question to Tony Blair.\n And some of us are better than others at coping with the hot weather.\n If you want to get in touch you can follow us on facebook or twitter and use the hashtag r4today \n On email we're Today AT bbc DOT co DOT UK",
+    "start": 7178.52
+  },
+  {
+    "story": "PROG IDENT & HEADS  Martha-JH + Read",
+    "script": "You are listening to TODAY on Radio 4 with JOHN HUMPHRYS and MARTHA KEARNEY\n It's eight o'clock on Thursday the 27th of June\n The headlines.~\n The Government is setting out a new approach for dealing with women offenders in England and Wales, which favours community sentences over prison.\n The Chief Secretary to the Treasury, Liz Truss, has launched an outspoken attack on Cabinet colleagues - who she says are imposing too many rules and regulations.\n Zimbabwe's President has told the BBC that supporters of Grace Mugabe were behind an attempt on his life.\n Firefighters are trying to control a blaze which is spreading across Saddleworth Moor near Manchester.\n The BBC news is read by Zeb Soanes",
+    "start": 7188.38
+  },
+  {
+    "story": "Q PRISONS-Kelly",
+    "script": "The government has scrapped plans for five new women's prisons in England and Wales.  Instead, it will build residential centres which provide help in getting a job, and where mothers might be able to keep their children with them.  The Justice Secretary, David Gauke, said there should be more use of community sentences for women convicted of low-level offences.  Yesterday, the prisons minister Rory Stewart said he would like to see nearly all prison sentences of less than 12 months scrapped.  Figures show that women -- who make up just five per cent of the prison population -- are more likely than men to re-offend in the year after serving a short jail term.  Our home affairs correspondent, June Kelly reports:",
+    "start": 7236.44
+  },
+  {
+    "story": "Q GAUKE-Gauke",
+    "script": "Prison reform campaigners have welcomed the change of policy, but have said it must be properly funded. Speaking to this programme, the Justice Secretary, David Gauke, denied the new plans were a cost-cutting measure:",
+    "start": 7314.05
+  },
+  {
+    "story": "Q TRUSS-Watson",
+    "script": "A senior government minister has publicly criticised her Cabinet colleagues for introducing too many regulations. In a speech in London, the Chief Secretary to the Treasury, Liz Truss, made a joke mocking the Environment Secretary, Michael Gove, who has proposed restrictions on wood-burning stoves.  Here's our political correspondent, Iain Watson:",
+    "start": 7347.89
+  },
+  {
+    "story": "Q ZIMBABWE-Keane",
+    "script": "Zimbabwe's President, Emmerson Mnangagwa, has told the BBC he suspects a group which supported the former First Lady, Grace Mugabe, was behind the recent attempt on his life.  Two people were killed and dozens wounded when a device exploded close to the President at a rally on Saturday. Mr Mnangagwa came to power last November, when the military forced out Robert Mugabe.  He's been speaking to our Africa Editor, Fergal Keane:",
+    "start": 7424.06
+  },
+  {
+    "story": "Q FIRES-Savage",
+    "script": "Efforts are continuing to try to extinguish a huge moorland fire on the edge of Manchester. The blaze, which has been burning since Sunday, has left a pall of smoke hanging over a wide area - more than thirty homes have been evacuated. Danny Savage reports.",
+    "start": 7510.13
+  },
+  {
+    "story": "Q CARE-McCamiley",
+    "script": "The Government's being urged to change the way social care is funded in England, by introducing a new levy paid by both employers and older workers.  A cross party group of MPs has warned that the current arrangements in England are unsustainable. Frankie McCamley reports.",
+    "start": 7561.39
+  },
+  {
+    "story": "Q THAILAND-Head",
+    "script": "Heavy rains are continuing to hamper efforts to find a group of young football players and their coach who are missing inside a cave in Thailand. Rescue workers have been fighting a losing battle to pump water from the cave network. Our correspondent, Jonathan Head is there.",
+    "start": 7615.44
+  },
+  {
+    "story": "ROHINGYA-Read",
+    "script": "Amnesty International says it has evidence that the military in Myanmar had been preparing for an offensive against the Rohingya people, before a series of attacks by Rohingya militants on the security services last August. The army has always insisted its operation - which led to the flight of seven hundred thousand people - was a response to a specific terrorist threat.",
+    "start": 7665.06
+  },
+  {
+    "story": "Q WILLIAM-Dymond",
+    "script": "The Duke of Cambridge will meet the Palestinian President in Ramallah today - as he continues his history making tour of the Middle East.  He met Israel leaders in Jerusalem yesterday. Our Royal correspondent, Jonny Dymond, is travelling with him:",
+    "start": 7686.96
+  },
+  {
+    "story": "Q FATBERG-Coughlan",
+    "script": "A lump of congealed fat may become a permanent fixture in a London museum.  It was part of a 130 tonne \"monster fatberg\", which was discovered last year blocking sewers under east London.  Sean Coughlan reports:",
+    "start": 7738.15
+  },
+  {
+    "story": "EU MIGRATION  John-JH + Read + Adler + Tony Blair",
+    "script": "There is one item on the agenda for the EU summit in a couple of days that dominates all others.  Immigration. How to deal with the vast numbers of people who want to leave their poor and often violent countries and come to live in the relatively rich countries of Europe. It's true that the numbers have fallen this year compared with last, but   nearly 50,00 have made the dangerous journey across the Mediterranean. A thousand have died at sea. So far.  And the crisis has cast a dark shadow across the politics of Europe. The most powerful leader on the continent, Chancellor Merkel of Germany is fighting for her life after she opened the door to immigrants two years ago. And today, if there is one crisis that threatens to tear the EU apart, it is this. I'm joined in the studio by Tony Blair but let's hear first from our Europe editor Katya Adler who's in Vienna.",
+    "start": 7798.05
+  },
+  {
+    "story": "SPACE LIFE  Martha-MK + Read + Clip",
+    "script": "If there is life on other planets, how would we find out? NASA is launching a new mission to search for signs of oxygen or oceans in star systems far from earth. \n Dr Victoria Meadows has been leading the team at NASA studying exoplanets - those outside our solar system - and trying to work out what signs, or bio-signatures, would tell us they had life.",
+    "start": 8676.96
+  },
+  {
+    "story": "SPORT  John-Rob Bonnet",
+    "script": "And now - here's Rob Bonnet with the sports news.\n A relatively World Cup free zone this time round, other than to say that Argentina - twice world champions -  are through to the last 16 and a match against France but thanks only to the late goal which beat Nigeria. And Brazil - five time winners and Germany - four time winners - both could go out today, though the betting has to be against it. Brazil only need a draw against Serbia to progress but in a complicated scenario, Germany will only be assured of a place in the last sixteen if they beat South Korea and Mexico don't lose to Sweden.\n Now to tennis and the Nature Valley International in Eastbourne where Andy Murray's comeback from injury continues with a match against the man who replaced him as British number one Kyle Edmund. Murray has momentum - sport's word of the moment - after beating Stan Wawrinka on Monday, his first win in a year.here's coach Jamie Delgado on Murray's long haul back to fitness.\n Former British number one John Lloyd is on the line.Jamie Delgado spells it out.Murray's rehabilitation has been taken very carefully but the goal has to be next week's Wimbledon. Win or lose today, do you sense he'll make it? \n STANDBY: Also today.Johanna Konta against Caroline Wozniacki, former  world number one with Konta back in her home town on the Sussex coast.and enjoying the home comforts.\n But tennis' big issue of the day is a decision on whether Serena Williams - seven times a Wimbledon winner - will be seeded for this year's Championships which start on Monday. She's ranked 181 in the world, therefore way outside the window for a seeded place in the women's singles, but there's a suggestion that the All-England Club will look favourably on her following her long absence. Not so favourably inclined, the woman ranked 32nd in the world and therefore expecting to be awarded the last seeded place, Dominika Cibulkova.\n And it's England v Australia at Edgbaston in a one-off T20 international.this, in the wake of that 5-0 drubbing of the Aussies in the One day International series. \n STANDBY:",
+    "start": 8923.93
+  },
+  {
+    "story": "RADIO 4 TRAIL  Martha-MK + Read + Clip",
+    "script": ".... At 9 o'clock this morning we look back to a time when much of the world atlas was pink.",
+    "start": 9168.67
+  },
+  {
+    "story": "WEATHER  John-JH + Read",
+    "script": "A look at the weather.\n SHORT\n Early mist and low cloud in the east. Otherwise sunny and very warm\n LONG\n Early patches of mist, fog and low cloud in the east will clear fairly quickly to leave a sunny day across all areas. Becoming very warm in many areas, cooler near the east coast",
+    "start": 9214.43
+  },
+  {
+    "story": "PROGRAMME IDENT  Martha-MK + Read",
+    "script": "You are listening to TODAY on Radio 4 with John Humphrys and Martha Kearney.\n And now a summary of the news from Zeb Soanes",
+    "start": 9219.88
+  },
+  {
+    "story": "NEWS SUMMARY 08 30 00-Zeb Soanes",
+    "script": "The government is scrapping plans to build five community prisons for women in England and Wales. The Ministry of Justice says it will instead open the same number of residential centres - which will offer female offenders support in finding work and housing. \n A senior government minister has publicly criticised her Cabinet colleagues for introducing too many rules and regulations. The Chief Secretary to the Treasury, Liz Truss, mocked the Environment Secretary, Michael Gove, for wanting to ban wood-burning stoves.\n Zimbabwe's president says he suspects a group which supports the former first lady, Grace Mugabe, was behind a recent attempt on his life. Emmerson Mnangagwa was unhurt in the explosion, but two people were killed and dozens were wounded.\n More than thirty homes have been evacuated in Stalybridge in Greater Manchester - because of a fire on nearby Saddleworth Moor. The blaze, which started on Sunday, has been declared a major incident and the army is on standby to help.",
+    "start": 9228.32
+  },
+  {
+    "story": "FIVE EYES  Martha-MK + Read + John Howard",
+    "script": "Five Eyes is widely regarded as the world's most important intelligence alliance - secret briefings are shared between the UK, US, Australia, Canada and New Zealand. So how will that work after we leave the European Union? Will there be an even closer security relationship with those countries as ties could be loosened with the EU?\n For example the Commission has said that the UK will be excluded from parts of Galileo, the European satellite-navigation system, \n The Policy Exchange think thank is holding a seminar today \"The Importance of the Five Eyes Arrangements in an Era of Global Insecurity\". \n JOHN HOWARD, the former Australian Prime Minister will be attending the seminar. \n + how important do you regard this intelligence co-operation?\n + new challenges facing the world - which do you identify as most serious?\n + any change since election of Donald Trump.more isolationist stance?\n + Brexit important impact - \n + The European Commission says Brexit means the UK will have to be excluded from a key element of Galileo after March next year. This is the Public Regulated Service, or PRS - a navigation and timing signal intended for use by government agencies, armed forces and emergency services. Will Australia step into breach? \n +  The FT reported in May that two Whitehall officials had claimed Australia expressed interest in \"a UK project\" after announcing plans for its own National Space Agency.\n + What is Australia's role in trade with the UK post-Brexit? Will Australia become a stronger trading partner than the EU?",
+    "start": 9282.81
+  },
+  {
+    "story": "CABINET  John-JH + Read + John Pienaar",
+    "script": "The cabinet is divided over Brexit. We've known that for a very long time. But it seems to be divided in all sorts of other ways too. Yesterday we had one minister poking fun at another for his policies to save the environment. And another saying he made the prime minister ad he can break her.\n JOHN PIENAAR is our Deputy Political Editor",
+    "start": 9634.56
+  },
+  {
+    "story": "ADOPTION  Martha-Mk + Read + Clip + Rebecca White",
+    "script": "Families who have adopted children have serious concerns about their mental health and emotional well being.according to  major study carried out by Adoption UK.  Almost 70% of adoptive parents feel that their child's progress in learning is affected by problems with their emotional wellbeing in school. The report which talked to four thousand parents and children found that they are more likely to be excluded and to leave school without qualifications. \n Our reporter Emily Unia spoke to eleven-year-old Jamie and his adoptive mum Eleanor.  Jamie was taken into care when he was seven years old. Before he was adopted, he missed a lot of school and struggled to keep up.\n REBECCA WHITE from Adoptions UK wrote the report \"Bridging the Gap: Giving Adopted Children and Equal Chance in School\" \n She is a former Teacher",
+    "start": 9842.96
+  },
+  {
+    "story": "EDUCATION  John-JH + Read + Andria Zafirakou",
+    "script": "ANDRIA ZAFIRAKOU is a teacher   who has won a  Varkey Foundation Global Teacher Prize worth $1m. And what's she going to do with all that cash. pay off the mortgage, buy a Ferari. put her feet up? Nope. set up a charity to get more art into our schools.",
+    "start": 10192.86
+  },
+  {
+    "story": "SPENDING  Martha-MK + Read + Paul Carter",
+    "script": "The Treasury Minister Liz Truss has told colleagues it's not macho to ask for more money. But she may have a tough time persuading local councils about that.\n Many leaders are saying that they won't be able to set balanced budgets from next year.because of the amount of government cuts.\n PAUL CARTER is Conservative leader of Kent County Council and Chairman of the County Councils Network which has issued the warning.\n + why in such difficulties?\n + widespread fear?\n + setting a balanced budget is a legal requirement.what will happen if you can't?\n + couldn't you be more efficient?\n + sitting on reserves?",
+    "start": 10376.67
+  },
+  {
+    "story": "SWEAT  John-JH + Read + Stephanie Payne",
+    "script": "Glorious weather recently. wonderful to be able to soak up the sun for a change. Or is it? Many of us can't stand the heat. Why? Why the difference?\n live Payne",
+    "start": 10556.1
+  }
+]

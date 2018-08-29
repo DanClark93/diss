@@ -1,0 +1,58 @@
+#
+# This is /REALLY/ ugly - but it's ugly because the original ENPS html is /so/ broken no doc or xml parser will import the file.
+#
+
+#
+# Fabricate a simple common JSON document representing stories pulled from an ENPS running order.
+# Hopefully the OpenMedia API will not need as much hacking as this!
+#
+/<HTML>/ {
+    script = ""
+    storyindex = 0
+    print "{"
+    print "\"action\":\"rundown-simple\","
+    print "\"source\":\"" F "\","
+    print "\"retval\":{"
+    print "\"stories\":["
+}
+
+/<A NAME=StoryIndex/ {
+    next
+}
+
+/<A NAME=/ {
+    story=StoryFromHtml($0)
+    if (storyindex>0) print ","
+    printf "{\"story\":\"" story "\","
+    script=""
+    storyindex++
+    next
+}
+
+/<P>/ {
+    script=script substr($0, 4) "\\n"
+}
+
+/Return to index of/ {
+    script=trim(script)
+    gsub("\"", "\\\"", script)
+    printf "\"script\":\"" trim(substr(script, 1, length(script)-2)) "\"}"
+}
+
+/<\/HTML>/ {
+    print "]}}"
+}
+
+function StoryFromHtml(_in)
+{
+    s=index(_in, "NAME=")
+    if (s>0) {
+        s1=substr(_in, s+5)
+        return substr(s1, 0, index(s1, ">"))
+    }
+    return _in
+}
+
+function ltrim(s) { sub(/^[ \t\r\n]+/, "", s); return s }
+function rtrim(s) { sub(/[ \t\r\n]+$/, "", s); return s }
+function trim(s)  { return rtrim(ltrim(s)); }

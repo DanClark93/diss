@@ -1,0 +1,420 @@
+{
+    "content": [
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E547",
+            "title": "R2 2300 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T23:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E546",
+            "title": "R2 2200 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T22:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E545",
+            "title": "R2 2100 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T21:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E544",
+            "title": "R2 2000 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T20:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E543",
+            "title": "R2 1900 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T19:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E542",
+            "title": "R2 1800 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T18:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E541",
+            "title": "R2 1700 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T17:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E540",
+            "title": "R2 1600 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T16:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E53F",
+            "title": "R2 1500 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T15:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E53E",
+            "title": "R2 1400 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T14:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E53D",
+            "title": "R2 1300 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T13:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E53C",
+            "title": "R2 1200 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T12:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E53B",
+            "title": "R2 1100 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T11:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E53A",
+            "title": "R2 1000 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T10:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E539",
+            "title": "R2 0900 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T09:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E538",
+            "title": "R2 0800 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T08:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E537",
+            "title": "R2 0700 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T07:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E536",
+            "title": "R2 0600 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T06:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E535",
+            "title": "R2 0500 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T05:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E534",
+            "title": "R2 0400 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T03:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E533",
+            "title": "R2 0300 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T02:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:01"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E7EC",
+            "title": "Rip and Read 11/07/18",
+            "outlet": "Rip and Read",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T00:00:00",
+            "author": "Brian_W",
+            "modifiedAt": "2018-07-10T00:30:06"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E548",
+            "title": "R2 2400 11/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-11T00:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-04T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4CB",
+            "title": "R2 2300 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T23:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4CA",
+            "title": "R2 2200 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T22:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4C9",
+            "title": "R2 2100 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T21:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4C8",
+            "title": "R2 2000 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T20:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4C7",
+            "title": "R2 1900 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T19:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-10T11:51:06"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4C6",
+            "title": "R2 1800 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T18:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4C5",
+            "title": "R2 1700 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T17:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4C4",
+            "title": "R2 1600 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T16:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4C3",
+            "title": "R2 1500 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T15:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4C2",
+            "title": "R2 1400 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T14:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4C1",
+            "title": "R2 1300 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T13:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4C0",
+            "title": "R2 1200 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T12:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4BF",
+            "title": "R2 1100 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T11:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4BE",
+            "title": "R2 1000 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T10:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:14"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4BD",
+            "title": "R2 0900 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T09:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:14"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4BC",
+            "title": "R2 0800 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T08:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:14"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4BB",
+            "title": "R2 0700 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T07:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:14"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4BA",
+            "title": "R2 0600 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T06:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:14"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4B9",
+            "title": "R2 0500 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T05:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:14"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4B8",
+            "title": "R2 0400 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T03:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:14"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4B7",
+            "title": "R2 0300 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T02:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:12"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E770",
+            "title": "Rip and Read 10/07/18",
+            "outlet": "Rip and Read",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T00:00:00",
+            "author": "Brian_W",
+            "modifiedAt": "2018-07-09T00:30:02"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4CC",
+            "title": "R2 2400 10/07/18",
+            "outlet": "R2 Bulletins",
+            "programmeArea": "Radio Newsroom",
+            "scheduledStartTime": "2018-07-10T00:00:00",
+            "author": "admin",
+            "modifiedAt": "2018-07-03T00:30:15"
+        }
+    ],
+    "totalElements": 46,
+    "numberOfElements": 46
+}

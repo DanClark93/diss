@@ -1,0 +1,82 @@
+[
+    {
+        "story": "BONGS",
+        "start": null
+    },
+    {
+        "story": "HEADLINES",
+        "start": "19.98"
+    },
+    {
+        "story": "Q Brexit 1",
+        "start": "74.71"
+    },
+    {
+        "story": "Q Brexit 2",
+        "start": "261.48"
+    },
+    {
+        "story": "Q House of Fraser 1",
+        "start": "386.99"
+    },
+    {
+        "story": "Q House of Fraser 2",
+        "start": "498.94"
+    },
+    {
+        "story": "Q Abortion",
+        "start": "596.94"
+    },
+    {
+        "story": "Q Grenfell",
+        "start": "759.28"
+    },
+    {
+        "story": "HEADLINES & TRAILS",
+        "start": "889.45"
+    },
+    {
+        "story": "Q Transgender",
+        "start": "930.85"
+    },
+    {
+        "story": "Q Graduates",
+        "start": "998.8"
+    },
+    {
+        "story": "Q Terror",
+        "start": "1127.79"
+    },
+    {
+        "story": "Q Putin",
+        "start": "1199.27"
+    },
+    {
+        "story": "Q Afghan",
+        "start": "1318.22"
+    },
+    {
+        "story": "Q Rail",
+        "start": "1399.22"
+    },
+    {
+        "story": "City",
+        "start": "1508.68"
+    },
+    {
+        "story": "Q Scudamore",
+        "start": "1533.06"
+    },
+    {
+        "story": "Q Bristol",
+        "start": "1614.37"
+    },
+    {
+        "story": "Q Prince",
+        "start": "1715.44"
+    },
+    {
+        "story": "CLOSING HEADLINES",
+        "start": "1802.83"
+    }
+]

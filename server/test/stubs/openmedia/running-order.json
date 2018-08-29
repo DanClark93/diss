@@ -1,0 +1,43 @@
+{
+    "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E4C7",
+    "title": "R2 1900 10/07/18",
+    "outlet": "R2 Bulletins",
+    "programmeArea": "Radio Newsroom",
+    "scheduledStartTime": "2018-07-10T19:00:00",
+    "broadcastTitle": "",
+    "author": "admin",
+    "modifiedAt": "2018-07-10T11:54:20.973",
+    "modifiedBy": "Tamsin Green",
+    "duration": "PT2S",
+    "estimatedDuration": "PT0S",
+    "scripts": [
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E865",
+            "title": "New Radio Script 2",
+            "final": true,
+            "outlet": "R2 Bulletins",
+            "scheduledStartTime": "2018-07-10T19:00:00",
+            "broadcastTitle": "",
+            "author": "Tamsin Green",
+            "modifiedBy": "Tamsin Green",
+            "createdAt": "2018-07-10T11:52:57.537",
+            "createdBy": "Tamsin Green",
+            "duration": "PT0S",
+            "estimatedDuration": "PT0S"
+        },
+        {
+            "urn": "urn:openmedia:c53355c7-1aa9-49d4-ba53-1cdc77bf9326:000000030087E864",
+            "title": "Tamsin test",
+            "final": true,
+            "outlet": "R2 Bulletins",
+            "scheduledStartTime": "2018-07-10T19:00:00",
+            "broadcastTitle": "",
+            "author": "Tamsin Green",
+            "modifiedBy": "Tamsin Green",
+            "createdAt": "2018-07-10T11:51:06.21",
+            "createdBy": "Tamsin Green",
+            "duration": "PT2S",
+            "estimatedDuration": "PT0S"
+        }
+    ]
+}

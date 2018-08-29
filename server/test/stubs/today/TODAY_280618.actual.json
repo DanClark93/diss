@@ -1,0 +1,262 @@
+[
+  {
+    "story": "EARLY MORNING TRAFFIC PROBLEMS",
+    "script": "In the event of not being able to contact Traffic ring the Rec Chief on 43110. If you get no response ring the DOM.",
+    "start": null
+  },
+  {
+    "story": "CON HANDOVER",
+    "script": "You are listening to BBC Radio 4.",
+    "start": null
+  },
+  {
+    "story": "GOOD MORNING John",
+    "script": "It's six o'clock on Thursday the 28th of June\nThis is TODAY with NICK ROBINSON and JOHN HUMPHRYS",
+    "start": 0.71
+  },
+  {
+    "story": "HEADS & MENU Nick",
+    "script": "The headlines this morning:\nTheresa May is to face calls at an EU summit to spell out how she plans to avoid creatiing a hard border in Ireland after Brexit.\nThe retirement of a supreme court judge in America has given President Trump a chance to shape America's social policy for decades to come.\nAlso in today's programme.\nIs Donald Trump a facist? A question posed in a new book by Madeline Albright  - the former secretary of state  \nand \ncould a  BOT replace your GP? \nThe BBC news is read by Charles Carroll",
+    "start": 6.6
+  },
+  {
+    "story": "R4 0600",
+    "script": "Theresa May goes to Brussels today to meet the other EU leaders at a summit where significant steps towards Brexit were expected to have been made.  The Irish prime minister, Leo Varadkar, has said time is running out to conclude an agreement on the terms of the UK's withdrawal.  Other EU leaders appear preoccupied instead with the problem of migration.  Here's our political editor, Laura Kuennsberg:\nA former chief of staff for Theresa May -- Nick Timothy -- has advised her that she needs to be much tougher in the Brexit talks.  Writing in THE DAILY TELEGRAPH, he says Britain is being exploited and the time for co-operation is over.  \nThe American army has been asked to provide housing on military bases for more than ten thousand illegal immigrants caught after crossing into the US from Mexico.  The initiative is intended to answer criticism of President Trump for separating children from their parents.\nMr Trump has been handed the opportunity to shift America's highest court further to the right.  One of its judges -- the moderate Conservative Justice Anthony Kennedy -- has announced he's stepping down.  The court is the final arbiter on divisive issues including gun rights and abortion.  Here's our North America editor, Jon Sopel: \nSoldiers are joining the emergency services who've been tackling a big fire on the moors to the east of Manchester.  Flames and smoke have spread across miles of hill country above Stalybridge, forcing the evacuation of up to 100 homes. Assistant Chief Fire Officer Dave Keelan said his crews had been kept constantly busy:\nA government review of journalism in Britain has found that newspaper revenues have dropped by more than half in the past decade. The inquiry suggests communities have been particularly affected by the decline of local newspapers. Our Media Editor, Amol Rajan, has more:\nA technology company is claiming to have developed an app that can provide the same quality of advice as family doctors.   The firm, Babylon, says its artificial intelligence software can pass relevant sections of the final test for trainee GPs.  But the Royal College of General Practitioners has questioned the claims, saying no app or algorithm can do what a doctor does.\nUniversities have been told to improve the help they offer students with mental health problems.  Ministers want to establish systems that would allow the universities to let parents know when students are in difficulty.\nThe UK's competition watchdog has told various hotel booking sites to review the way they rank and display accommodation. An investigation by the Competition and Markets Authority - the CMA - has highlighted concerns including pressure selling and hidden charges.  Kevin Peachey reports:",
+    "start": 51.95
+  },
+  {
+    "story": "WEATHER John-Phil Avery",
+    "script": "Now for the weather forecast over to Phil Avery at the BBC Weather Centre",
+    "start": 360.41
+  },
+  {
+    "story": "PAPERS Nick",
+    "script": "~",
+    "start": null
+  },
+  {
+    "story": "BREXIT John-JH + Fleming",
+    "script": "Britain has been warned by the rest of the EU to get cracking on its Brexit proposals - especially the Irish border. \nlive Fleming",
+    "start": 634.26
+  },
+  {
+    "story": "FOOTBALL Nick-NR + Roan",
+    "script": "Germany are out, England are still in which to many England fans feels like victory in the World Cup \nOur sports editor Dan Roan joins us from Kalinangrad where England take on Belgium tonight",
+    "start": 806.87
+  },
+  {
+    "story": "BUSINESS HEADS John-Dominic O'Connell",
+    "script": "If you book hotel rooms online, you will probably have wondered whether you were really getting the best deal. The answer appears to be - quite possibly not. The competition watchdog has been looking at the websites and found all was not well - here's Dominic with that and the rest of the business news\nThanks.",
+    "start": 1016.49
+  },
+  {
+    "story": "HOTELS-Cecilia Parker Aranha",
+    "script": "If you book hotel rooms online, you will probably have wondered whether you were really getting the best deal. The answer appears to be - quite possibly not. The competition watchdog has been looking at the websites and found all was not well - here's Dominic with that and the rest of the business news\nDOM: Yes the Competition and Markets Authority, the CMA, has been looking at hotel booking sites since October and today it is taking enforcement action.\nCecilia Parker Aranha, Project Director at the CMA \n- What are they doing that you don't like?\n- prices/advertising/commission?\n- What enforcement action are you taking?\n- Why not name them?\n- the scale of harm\n- what about other comparison websites?",
+    "start": 1016.49
+  },
+  {
+    "story": "MARKETS-Maike Currie",
+    "script": "Maike Currie, Investment Director, Fidelity International EX S33\n- John Lewis - profits collapse, rebrand and pension review. Just hard times on the high street? Could the John Lewis partnership demutualise?\n- Disney bid for 21st Century Fox assets is cleared by competition regulators in US - but we are still expecting Comcast to come back with a bigger offer, or failing that a superior offer for Sky.\nWomen on boards - half way to the target of a third of boards to be female by 2020 and we are behind. Why? Easy stuff has been done perhaps …? Denise Wilson White who runs it says about one-third of FTSE 350 companies are still hoping it will all just go away.\nInteresting chart on the front of the FT - markets have been a bit spooked by the thought of a trade war, but gold has been completely unmoved ….",
+    "start": 1263.11
+  },
+  {
+    "story": "NUCLEAR-Lord Hutton",
+    "script": "Now 62 years ago the Queen opened the world's first large commercial nuclear power plant - at Calder Hall in Sellafield\nThe government is keen for more atoms to get working - we are at the start of a new nuclear construction programme - a new plant is being built at Hinkley Point in Somerset, another is in planning at least at Wylfa on Anglesey. Now there is going to be 뿯½56m of government money to fund develop small new reactors\nLORD HUTTON - Chairman of the Nuclear Industry Association  and Co-chair of the Nuclear Industry Council EX TRURO\nWhat is an AMR? Haven't we heard it all before\nCalder Hall - led the world in nuclear but now we need foreign companies to build \nWe did have Westinghouse?\nWhat can we realistically expect as suppliers?\nAre we able to meet climate change targets without nuclear?",
+    "start": 1478.25
+  },
+  {
+    "story": "SPORT Nick-Rob Bonnet",
+    "script": "And now here's Rob Bonnet with the sports news.\nSo, maybe once again, here's the moment that rocked the football world.  \nYes 2-0 to the Koreans, Germany bottom of World Cup Group F and the 4th of the last five defending champions to leave the competition at the group stage. German manager Joachim Low is considering his position and said their elimination was deserved. And here's out of form defender Mats Hummels.\nElsewhere Sweden were beating Mexico 3-0 but both have gone through to the last 16 while Brazil 2 Serbia 0 and Switzerland's 2-all draw with Costa Rica were good enough for them to progress. This evening it's 4th favourites England against 3rd favourites Belgium.both already through to the last 16 but with manager Gareth Southgate reflecting on the impact of that German result.\nAway from the World Cup, a 6-4, 6-4 defeat for Andy Murray at Eastbourne by the current British number one Kyle Edmund whose post match quotes reflected on how it was strange to beat Murray but also how the result demonstrated his own improvement. For Murray, meanwhile, a decision by tomorrow on whether to take part in Wimbledon next week. \nJohanna Konta meanwhile beaten at Eastbourne by Caroline Wozniacki in three sets but for England's cricketers a 28 run win in their T20 match against Australia at Edgbaston. It included 61 from Joss Buttler in just 21 balls - a record. Now captain Eoin Morgan looks forward to the visit of India.\nNewmarket 3.15: 7. Hateel\nNottingham 5.45: 1. Pondering",
+    "start": 1706.71
+  },
+  {
+    "story": "RADIO 4 TRAIL 1 John",
+    "script": "....\nI wonder what this could signify.",
+    "start": 1863.62
+  },
+  {
+    "story": "PROGRAMME IDENT Nick",
+    "script": "Now the time is.\nYou are listening to TODAY on BBC Radio 4 with John Humphrys and Nick Robinson.\nAnd now a summary of the news from Charles Carroll",
+    "start": 1898.22
+  },
+  {
+    "story": "NEWS SUMMARY 0630-Charles Carroll",
+    "script": "Theresa May will join other European Union leaders at a summit in Brussels this afternoon, where significant steps in the Brexit negotiations were expected to have been made.  The Irish prime minister, Leo Varadkar, has said time is running out to conclude an agreement on the terms of the UK's withdrawal.  \n.Mrs May's former chief of staff - Nick Timothy - has said she needs to be much tougher in the Brexit talks.  Writing in THE DAILY TELEGRAPH, he says the prime minister has been undermined by ministers who do not support leaving -- and that she's in danger of signing up to the \"worst possible\" Brexit deal.\nThe US army has been asked to provide housing on military bases for more than ten thousand illegal immigrants caught after crossing into the US from Mexico.  The initiative is intended to answer criticism of the Trump Administration for separating children from their parents.\nPresident Trump has been handed the opportunity to shift America's highest court further to the right.  One of its judges -- the moderate Conservative Justice Anthony Kennedy -- has announced he's retiring.  The court is the final arbiter on divisive issues including gun rights and abortion. \nAround a hundred soldiers - and an RAF Chinook helicopter - have been deployed to help tackle wildfires on moorland to the east of Manchester. More than 50 fire-fighters worked through the night to tackle the blazes, which started on Sunday.\nA government review of journalism in Britain has found that newspaper revenues have dropped by more than half in the past decade. The inquiry suggests communities have been particularly affected by the decline of local newspapers.\nA technology company is claiming to have developed an app that can provide the same quality of advice as family doctors.   The firm, Babylon, says its artificial intelligence software can pass relevant sections of the final test for trainee GPs. \nUniversities have been told to improve the help they offer students with mental health problems.  Ministers want to establish systems that would allow the universities to let parents know when students are in difficulty.",
+    "start": 1905.48
+  },
+  {
+    "story": "SADDLEWORTH John-JH + Fitzpatrick",
+    "script": "More than fifty firefighters have been working through the night on Saddleworth Moor.\nlive Kevin Fitzpatrick",
+    "start": 1977.89
+  },
+  {
+    "story": "BREXIT Nick-NR + Smith",
+    "script": "Britain risks signing up to the worst possible Brexit deal. So says the man who was Theresa May's Chief of Staff at Number 10 \nNorman Smith is our Ass Pol ed",
+    "start": 2188.24
+  },
+  {
+    "story": "PAPERS Nick",
+    "script": "Now, time for a look at today's papers and news websites.    \nAccording to the TIMES, Britain fears that President Trump will undermine Nato by striking a \"peace deal\" with President Putin at their summit next month.  Cabinet ministers, it says, are worried that Mr Trump may be persuaded to downgrade US military commitments in Europe and even cancel military exercises -- replicating his agreement with Kim Jong-un of North Korea.  Writing in the GUARDIAN, Martin Kettle says Europeans must ask themselves the question: has Trump's US become a hostile power?\nTony Blair's call for Brexit to be delayed has sparked \"fury\", according to the DAILY EXPRESS, which calls his comments \"highly inflammatory\".  The DAILY TELEGRAPH calls him \"the meddlesome Mr Blair\", and says he should use his influence in Brussels to defend his country's interests, not undermine them.  The Business Secretary, Greg Clark, gets roughed up by the SUN for -- in its view -- lobbying for the softest of soft Brexits.  It accuses Mr Clark of tugging his forelock to big businesses that have done very well out of the EU for years.  The SUN tells the prime minister it's time she backed Brexit voters over corporate doom-mongers.  \nIn an interview with the FINANCIAL TIMES, the Greek prime minister, Alexis Tsipras, says he's ready to strike a deal with Angela Merkel to make it easier for Germany to send asylum seekers back to other European countries.  The FT says such an agreement would be an important boost for Mrs Merkel, who is under intense pressure from her coalition partners to speed up return procedures for migrants already registered in other EU countries. \nThe TIMES says it has learnt that Chinese railway companies are the frontrunners to operate the trains on the new HS2 high speed line.  Sources have told the paper that China is on course to win because rival British-led bidders are beset by crises and unwilling to take on the financial risk.  \nTHE DAILY MIRROR, and others, report that police have given up their search for the so-called \"Putney Pusher\" -- a middle-aged jogger who was filmed shoving a woman pedestrian into the path of a bus on Putney Bridge.  The incident -- in May last year -- caused an outcry but, having eliminated fifty possible suspects, detectives say all lines of enquiry have been exhausted. \nPhotographs of tearful and bewildered German football fans are abundant, but sympathy's in short supply.  \"Gott im Himmel!\" crows a delighted DAILY MAIL, adding \"in Britain, there's not a dry eye in the house!!\".   \"Don't mention the score.\" quips the INDEPENDENT, channelling Basil Fawlty. The i newspaper's headline asks: \"What's the German for Schadenfreude?\"  That word also appears on the SUN's front page -- along with the English definition. The back page carries a cut-out-and-keep copy of the final group table showing Germany in last place -- to cheer readers up when they're feeling low. The TELEGRAPH admits that it's cruel to revel in the misfortune of others. But it says England's World Cup anguish at German hands is stitched in history \"like a black thread\" -- and for once all that accumulated misery switched sides.",
+    "start": 2385.45
+  },
+  {
+    "story": "YIP Nick-NR + Curran PKG",
+    "script": "Theresa May was teased at Prime Minister's Questions yesterday over splits in her Cabinet over Brexit - as MPs delighted in raising the Foreign Secretary's colourful remarks about business. Our parliamentary correspondent Sean Curran reports.",
+    "start": 2576.94
+  },
+  {
+    "story": "PUZZLE John",
+    "script": "Today's #PuzzleForToday has been set by Hugh Hunt of  Trinity College, Cambridge\nJohn and Martha are following various sports this summer and are having a rolling race with various balls on a gently-sloping table. John has a ping-pong ball, a cricket ball and a ten-pin bowling ball. Martha has a football, a billiard ball and an ice hockey puck. They line up all six at the top of the slope and let them roll down to the bottom. Which ones get to the bottom fastest?",
+    "start": 2897.28
+  },
+  {
+    "story": "MEXICO Nick-NR + Khalil PKG",
+    "script": "Mexicans go to the polls this Sunday to vote in what is described to be the country's biggest elections. Voters choose a new president, a new parliament and hundreds of local and state representatives. This at a time when Mexicans are grappling with a slow economy, corruption scandals, persistent inequality and a record level of violence. The BBC's Shaimaa Khalil has been travelling around Mexico to find out how all that is shaping the public debate.",
+    "start": 2938.09
+  },
+  {
+    "story": "GREEN PLANES John-JH + Dr Dray",
+    "script": "Two days ago MPs voted for a third runway at Heathrow Airport. Critics say if the vote had been delayed until today they might have had second thoughts because the cttee on climate change is publishing a report that says the govt is not doing enough to meet its own laws on curbing carbon emissions. So the inevitable question: can planes be designed to produce fewer emissions?\nLive Dr Lynette Dray",
+    "start": 3229.43
+  },
+  {
+    "story": "WEATHER 57 15 Nick-Phil Avery",
+    "script": "Now for the weather forecast -here's Phil Avery",
+    "start": 3431.52
+  },
+  {
+    "story": "RADIO 4 TRAIL 2 John",
+    "script": "....\nNext week BBC Radio 4 provides the platform for another thought-provoking lecture.",
+    "start": 3529.94
+  },
+  {
+    "story": "PROG TRAIL 0659 Nick",
+    "script": "Programme Trails\nWill Germany crashing out of the World Cup affect Merkel? \nAnd the latest on the fire at Saddleworth Moor \nIf you want to get in touch you can follow us on facebook or twitter and use the hashtag r4today \nOn email we're Today AT bbc DOT co DOT UK",
+    "start": 3582.28
+  },
+  {
+    "story": "PROG IDENT & HEADS John",
+    "script": "You're listening to TODAY on BBC Radio 4, with Nick Robinson and John Humphrys.\nIt's seven o'clock on Thursday the 28th of June\nThe headlines.\nThe BBC news is read by Charles Carroll",
+    "start": 5417.98
+  },
+  {
+    "story": "Q SUMMIT 1 08-Laura Kuennsberg",
+    "script": "Theresa May travels to Brussels today to meet other EU leaders for a summit which had been planned as a significant stage in the Brexit negotiations.  The Irish prime minister Leo Varadkar has said time is running out to conclude an acceptable agreement on withdrawal before October.  But many of the other EU leaders appear to be preoccupied with ways of stopping migrants crossing the Mediterranean from North Africa.  Here's our political editor, Laura Kuennsberg:",
+    "start": 5424.39
+  },
+  {
+    "story": "TIMOTHY-Read",
+    "script": "A former chief of staff for Theresa May -- Nick Timothy -- has warned her that she's in danger of signing up to the \"worst possible\" Brexit deal.  Writing in THE DAILY TELEGRAPH, he says she's been undermined -- by MPs and ministers who did not support leaving -- and she should now spell out what Britain wants, while stepping up preparations for a \"no deal\" outcome.",
+    "start": 5441.76
+  },
+  {
+    "story": "Q SUPREME-Jon Sopel",
+    "script": "President Trump has been handed the opportunity to shift America's highest court further to the right -- with the retirement of one of its judges.  Justice Anthony Kennedy is stepping down from the Supreme Court after three decades in the role.  Viewed as a moderate Conservative, he has advanced gay rights and opposed attempts to restrict abortions. Here's our North America editor, Jon Sopel:",
+    "start": 5458.22
+  },
+  {
+    "story": "Q TRUMP VP-Tara McKelvey",
+    "script": "The American army has been asked to provide housing on military bases for more than ten thousand illegal immigrants caught crossing into the US from Mexico.  The initiative is intended to answer criticism of President Trump for separating children from their parents.  Mr Trump has told a rally of Republican supporters in North Dakota that more migrants are seeking to enter the country because his economic policies are succeeding in making America more prosperous.  Our reporter Tara McKelvey travelled with the president and sent this report:",
+    "start": 7371.48
+  },
+  {
+    "story": "Q FIRE ACT-ACT",
+    "script": "Around a hundred soldiers - and an RAF Chinook helicopter - have been deployed to help tackle fires on moorland to the east of Manchester.   Dozens of firefighters worked throughout the night to try to damp down the flames, which have been burning since Sunday.  Tony Hunter - who's an Area Manager for the Greater Manchester Fire and Rescue Service - said there was a risk the fires could spread further:",
+    "start": 7455.37
+  },
+  {
+    "story": "Q JOURNALISM ACT-ACT",
+    "script": "A government review of British journalism has found that newspaper revenues have more than halved in the past decade.   It says advertising has shifted online, circulation has dropped and fewer journalists are being employed.   The greatest decline has been seen in local newspapers, raising concerns about the coverage of court cases and council meetings.  The inquiry is being led by Dame Frances Cairncross, who says the ramifications are significant:",
+    "start": 7494.2
+  },
+  {
+    "story": "Q CLIMATE ACT-ACT",
+    "script": "A report by government advisors warns that young people will be left to pick up the bill for climate change because politicians are dodging the issue.   They say urgent action is needed to cut CO2 emissions from road traffic, homes and farming.  Lord Deben -- the former environment secretary, John Gummer -- was the chairman of the committee.  He told us many other countries were doing more -- including China and parts of the US.  He urged Britain to live up to its promises:",
+    "start": 7541.34
+  },
+  {
+    "story": "Q UNIVERSITIES-ACT",
+    "script": "The government is calling on universities to improve the support they offer to students with mental health problems. Official figures suggest 95 students took their own lives in England and Wales in the 12 months to July last year. Ministers want universities to offer an opt-in service, which would allow relatives to be alerted about a mental health crisis.  The Vice Chancellor of Bristol, Professor Hugh Brady, says his university is already adopting that approach:",
+    "start": 7596.22
+  },
+  {
+    "story": "Q CHILDBIRTH-Smitha Mundasad",
+    "script": "Public health experts hope that a new drug will protect millions of women around the world put at risk by uncontrolled bleeding after giving birth.  Unlike the current treatment, the new medicine can withstand high temperatures in countries where refrigeration is unreliable.  Smitha Mundasad reports:",
+    "start": 7645.9
+  },
+  {
+    "story": "Q ROYALS-Sarah Campbell",
+    "script": "Refurbishment works at Buckingham Palace have contributed to a thirteen percent increase in the amount of public money spent by the Queen in the past year. The royal expenditure is provided by the Treasury in exchange for revenue from the Crown Estate.  Sarah Campbell reports:\n The first set of accounts TO BE published since the start of the DECADE long project to upgrade Buckingham Palace show that more than 4 million pounds was spent carrying out the initial phase of works, including the removal of old and dangerous wiring. The costs are set to increase exponentially next year with the renovations moving to the East wing - the section facing the Mall and its famous balcony. The figures also show the Prince of Wales took twice as many journeys on the Royal Train as the Queen, including a trip from London to Durham at a cost of 21 thousand pounds. Costs relating to the Duke and Duchess of Cambridge and Prince Harry have risen by up to 40 per cent over the past financial year. A Palace spokesman refused to be drawn on how much of the rise was related to Meghan, the new Duchess of Sussex.",
+    "start": 7693.41
+  },
+  {
+    "story": "CARDINALS-Read",
+    "script": "Pope Francis will appoint a group of fourteen new Cardinals today.  The intake will reflect the Pope's desire for greater international diversity among the senior ranks of the Roman Catholic Church. Many of the clerics have been drawn from nations where Catholics are in a minority including Iraq and Pakistan.",
+    "start": null
+  },
+  {
+    "story": "Q HOTEL-Kevin Peachey",
+    "script": "The competition watchdog says it's concerned that the ranking of hotels on some websites may be influenced by the size of the commission they pay.   The Competition and Markets Authority has also highlighted concerns about pressure selling and hidden charges.   Here's our personal finance reporter Kevin Peachey:",
+    "start": 7756.4
+  },
+  {
+    "story": "TRUMP John-JH + Albright",
+    "script": "Fascism is an ugly word. It came to define the bloodiest  decades  the modern world has ever seen. In the end the forces of fascism and nazism were defeated by the forces of democracy. Defeated or lying dormant? Madeline  Albright has her own personal memories or fascism. She was a child in war-torn Europe. She eventually rose to high office in her adopted country,  the United States. She was the first woman to hold the office of secretary of state. She has now written a book and its title alone gives pause for thought. fascism: A warning. She's with me. \n Addressing a rally of his supporters in North Dakota, the President pointed out the main difference between crime policy. \n republicans want strong borders and no crime, democrats want open borders and crime crime crime happens automatically when you have those open borders \n He also focused his disdain on the EU's trade policy. \n last year with the EU we lost 151 billion dollars on trade. We had a trade deficit of 151 billion because they send the mercedes in, they send the BMW's in, they send their products in, we send them things, they say no thanks, that's not free trade, that's stupid trade \n he also claimed more and more people were finding work under his administration; \n african american unemployment is at the lowest level in the history of our country, hispanic american unemployment is also at the lowest in the history of our country. Unemployment among women.look at all the women here tonight",
+    "start": 7814.5
+  },
+  {
+    "story": "AI Nick-NR + Parsa + Stokes Lampard",
+    "script": "Timecheck\n Is that how we will get medical advice in the future? Advice delivered not by a doctor.Not, indeed, by a human being but by a machine using Artificial Intelligence which it is claimed can give advice on a par with any doctor \n It was demonstrated last night at the Royal College of Physicians \n CLIP 2  \n Ali Parsa is the founder and CEO of digital healthcare company Babylon which developed the software\n Helen Stokes Lampard is chair of the Royal College of GPs\n BACK ANNO: For more on this topic, you can watch Click this weekend on BBC News",
+    "start": 8593.52
+  },
+  {
+    "story": "SPORT John-Rob Bonnet",
+    "script": "And now - here's Rob Bonnet with the sports news.\n So much to digest as the Group stage of the World Cup comes to an end today.the progress of favourites Brazil into the last 16 via a 2-0 win against Serbia, the dilemma of whether to try to avoid them potentially in the quarter finals for both Belgium and England who meet tonight.and of course the departure of defending champions Germany via that 2-0 defeat by South Korea. Germany manager Joachim Low said he was considering his position after an elimination that he said was deserved, so that's where we'll start with our correspondent John Murray. A general feeling of Schadenfreude amongst English fans, media and maybe even the players? \n Live coverage with John and the team on Five live this evening.7 o'clock kick-off.\n Elsewhere, Andy Murray says he'll decide by tomorrow whether to take part in Wimbledon next week after his straight sets defeat by current British number one Kyle Edmund at Eastbourne.and a sharply attentive listener has pointed out that Joss Buttler's 61 was not made off 21 balls but off 30. It was 21 balls for his half century as England beat Australia by 28 runs in their T20 international at Edgbaston. \n Newmarket 3.15: 7. Hateel\n Nottingham 5.45: 1. Pondering",
+    "start": 8946.85
+  },
+  {
+    "story": "RADIO 4 TRAIL Nick",
+    "script": "....\n Here's Melvyn Bragg to tell us about what's coming up in half an hour on BBC Radio 4.",
+    "start": 9163.49
+  },
+  {
+    "story": "WEATHER John-READ ONLY",
+    "script": "A look at the weather.\n Early patches of mist and low cloud, mostly in the east, should clear by mid-morning to leave the UK dry, sunny and very warm. \n Early patches of mist and low cloud, mostly in the east, should clear by mid-morning to leave the UK dry, sunny and very warm. Breezy across some southern areas though.",
+    "start": 9230.77
+  },
+  {
+    "story": "PROGRAMME IDENT Nick",
+    "script": "You are listening to TODAY on Radio 4 with JOHN HUMPHRYS and NICK ROBINSON\n And now a summary of the news from Charles Carroll",
+    "start": 9239.49
+  },
+  {
+    "story": "NEWS SUMMARY 08 30 00-Charles Carroll",
+    "script": "Theresa May will join other European Union leaders at a summit in Brussels this afternoon, where significant steps in the Brexit negotiations were expected to have been made. The EU is urging Britain to intensify and accelerate work on the future relationship.\n President Trump has been handed the opportunity to shift America's highest court further to the right -- with the retirement of one of its judges.  Justice Anthony Kennedy - who's viewed as a moderate conservative - is stepping down from the Supreme Court after three decades in the role.\n Around a hundred soldiers - and an RAF Chinook helicopter - have been deployed to help tackle fires on moorland to the east of Manchester.   Dozens of firefighters worked throughout the night to control the blazes which are spanning an area of four miles. \n A government review of British journalism has found that newspaper revenues have more than halved in the past decade. It suggests advertising has shifted online, circulation has dropped and fewer journalists are being employed.",
+    "start": 9242.73
+  },
+  {
+    "story": "MENTAL HEALTH Nick-NR + VCS + Gyimah",
+    "script": "Universities risk \"failing an entire generation \" if they do not offer support to students facing mental health problems \n That is the warning from the education minister Sam Gyimah \n He's going to Bristol, talking to the vice chancellors of the two universities there where there have been 13 suspected suicides in less than two years. But what can universities actually do to help? From the University of the West of England in Bristol, Ross Hawkins reports \n Sam Gyimah, Universities Minister",
+    "start": 9304.14
+  },
+  {
+    "story": "SADDLE WORTH John-JH + Armitage",
+    "script": "We know what fire looks like. Most of us don't know what a moorland fire looks like because we've never seen one and when we see the pictures it seems to be all smoke and little flame. So let's get a description from a renowned wordsmith - playwright poet novelist - Simon Armitage. Simon lives in Holme Valley very close to Saddleworth Moor.",
+    "start": 9718.86
+  },
+  {
+    "story": "PANGOLINS Nick-NR + Crawford PKG",
+    "script": "British scientists have come up with a ground-breaking technique to help tackle the poaching of one the most endangered species on the planet.  The Pangolin is the only scaly mammal and is the most trafficked animal in the world - eaten as a delicacy - its scales are also used in Chinese traditional medicines. Now a team at Portsmouth University has come up with a way of taking human finger prints off seized scales and that could help identify the criminals behind the illegal trade.  As Angus Crawford reports.",
+    "start": 9905.49
+  },
+  {
+    "story": "IDENTITY John-JH + Edgerton",
+    "script": "The leaders of 28 countries meet in Brussels today and one of them will be more onlooker than participant. Theresa May. Because, of course, \n we cease to be a member of the European Union at eleven pm on March 29th next year and then, in the language Brexit supporters so often use, we shall be a fully independent nation again. We shall be proudly British. What does that mean? David Edgerton is a professor at Kings College London and has written  extensively about the British nation. His latest book is called the rise and fall of the british nation.",
+    "start": 10155.83
+  },
+  {
+    "story": "FOOTBALL Nick-NR + Kelner + Turner",
+    "script": "England fans will at least start tonight's match against belgium in good cheer and in good voice. After all germany are out of the world cup and England are guaranteed to qualify whatveer tonight's result\n BUT fans in kalinigrad could be punished if they chant songs that are deemed insulting or political\n Songs about Brexit are apparently verbotten\n We asked comedian Chris Turner to write us some - scrupiously balanced of course - three for Leave FC and three for Remain United. \n Last night we went to a pub round the corner from Broadcasting House and got some slightly inebriated football fans to chant them.\n Martha Kelner - chief sports reporter of the guardian is in Kaliningrad\n Chris Turner - comdedian and rapper  - is on oxford",
+    "start": 10435.6
+  }
+]

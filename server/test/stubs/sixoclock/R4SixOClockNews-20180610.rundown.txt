@@ -1,0 +1,20 @@
+	Story Slug		Segment	Item No	Audio	MOS Obj Slug	Tapenum	Actual	Cume	Back	MOS Object Time	MOS Status	Producer	Details	Final Appr
+	BONGS					1800 BIG BEN (Start at 59:30) DO NOT DELETE		0:00	0:00	17:59:46	1:34				
+	HEADLINES			100				0:35	0:35	17:59:46			HMW		ü
+	Q Singapore			120	Laura Bicker/act	SINGAPORE BICKER VP	50495	2:31	3:06	18:00:21	2:01		Neil	p	ü
+	Q Strategy			130	Jon Sopel	STRATEGY SOPEL VP	49482	1:50	4:56	18:02:53	1:16		Neil	p	ü
+	Q Brexit			140	Susana Mendonca/acts	BREXIT MENDONCA VP		2:27	7:23	18:04:42	1:55		Oliver	p	ü
+	Labour							0:22	7:45	18:07:09			Oliver	p	ü
+	Q Banks			150	Jon Donnison	BANKS DONNISON VP		1:29	9:14	18:07:31	1:01		Oliver	p	ü
+	Q Basildon			160	Lucinda Adam	Basildon Adam VP	47348	0:44	9:58	18:09:00	0:32		H	p	ü
+	Iraq			170				0:29	10:27	18:09:44			H	p	ü
+	Q Suffragettes			190	Frankie McCamley/act	SUFFRAGETTES MCCAMLEY VP 1800 BULLS		2:17	12:44	18:10:13	1:57		Anthony	r	ü
+	Q SPORT			210				0:11	12:55	18:12:30			Anthony	p	ü
+	SPORT script				Shabnam Younus-Jewell	TEN - Nadal saying thanks and on win TX		1:39	14:34	18:12:41	0:28				
+	grenfell							0:16	14:50	18:14:20					ü
+	END HEADS			410				0:24	15:14	18:14:36			Oliver	p	ü
+		ENDRO													
+	EVENING OUTPUT							0:08							
+	Austria			180	(Bethany Bell)			0:23					Anthony	p	ü
+	Labour Tips			160				0:13							
+	STORY TEN			200				0:00							

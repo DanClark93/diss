@@ -1,0 +1,25 @@
+	Story Slug		Segment	Item No	Audio	MOS Obj Slug	Tapenum	Actual	Cume	Back	MOS Object Time	MOS Status	Producer	Details	Final Appr
+	BONGS					1800 BIG BEN (Start at 59:30) DO NOT DELETE		0:00	0:00	18:00:19	1:34				
+	HEADLINES			100				0:57	0:57	18:00:19				r	ü
+	Q Brexit May			110	Vicky Young	BREXIT MAY YOUNG VP	24484	2:19	3:16	18:01:16	1:36		neil	r	ü
+	Q Brexit EU			120	Kevin Connolly	BREXIT EU  CONNOLLY VP	24255	3:31	6:47	18:03:35	2:55		neil	r	ü
+	Q G7			140	James Robbins	G7 ROBBINS VP	24390	2:32	9:18	18:07:06	2:06		neil	r	ü
+	Q NHS			150	Hugh Pym	NHS PAY PYM  VP 1800 BULLS		1:54	11:13	18:09:38	1:36		anthony	r	ü
+	Q Austria			160	Bethany Bell	AUSTRIA BELL 1800 VP		2:24	13:37	18:11:32	1:59		oliver	r	ü
+	Q Elderly			180	Simon Jones	ELDERLY JONES WRAP	23908	1:40	15:17	18:13:56	1:26		thomas	r	ü
+	Derby							0:20	15:37	18:15:36			lesley	r	ü
+	HEADLINES & TRAILS			250				0:26	16:03	18:15:56					ü
+	Q Bourdain			260	Aleem Maqbool	BOURDAIN AQBOOL VP	24410	2:23	18:26	18:16:22	1:48		lesley	r	ü
+	Q BMW			170	Victoria Fritz	BMW FRITZ VP	23763	1:39	20:05	18:18:45	1:14		lesley	r	ü
+	Q Migrants			270	Helena Lee	MIGRANTS LEE VP 1800 BULLS (shorter)		1:36	21:40	18:20:24	1:21		anthony	r	ü
+	Q Germany			280	Jenny Hill	GERMANY ASYLUM HILL VP 1800 BULLS		1:03	22:44	18:21:59	0:43		anthony	r	ü
+	Fraud			285				0:16	23:00	18:23:03			lesley		ü
+	Q Queen			290	Jonny Dymond	QUEEN CATARACT DYMOND VP	24314	0:50	23:50	18:23:19	0:40		thomas	r	ü
+	Q Presbyterians			300	Chris Page	PRESBYTERIANS PAGE VP 1800	24624	1:40	25:29	18:24:09	1:17		oliver	r	ü
+	City			330				0:22	25:51	18:25:49			anthony	r	ü
+	Q Winter break			350	Jo Currie	WINTER BREAK CURRIE VP		0:58	26:50	18:26:11	0:49		thomas	r	ü
+	Programmes			355				0:11	27:01	18:27:09			anthony	r	ü
+	Q SA Rugby			350	Nomsa Maseko	RUGBY MASEKO VP	24049	1:41	28:42	18:27:20	1:19		lesley	r	ü
+	School			370				0:24	29:06	18:29:01			oliver	r	ü
+	CLOSING HEADLINES			410				0:35	29:41	18:29:25				r	ü
+		ENDRO													

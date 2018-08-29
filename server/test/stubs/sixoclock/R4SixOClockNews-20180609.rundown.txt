@@ -1,0 +1,25 @@
+	Story Slug		Segment	Item No	Audio	MOS Obj Slug	Tapenum	Actual	Cume	Back	MOS Object Time	MOS Status	Producer	Details	Final Appr
+	BONGS					1800 BIG BEN (Start at 59:30) DO NOT DELETE		0:00	0:00	17:59:48	1:34				ü
+	HEADLINES			100				0:38	0:38	17:59:48					ü
+	Q G7			120	James Robbins	G7 ROBBINS VP		3:09	3:47	18:00:26	2:34		Oliver	r	
+	Q BREXIT			135	Matt Cole	BREXIT COLE VP		1:44	5:31	18:03:34	1:15		Oliver	r	ü
+	Q WELSH LAB			140	Iain Watson	WELSH LABOUR WATSON VP	37865	2:14	7:45	18:05:18	1:45		Lesley	r	ü
+	Q SNP			150	Andrew Kerr	SNP KERR VP	38058	1:30	9:15	18:07:32	1:05		Lesley	r	ü
+	Q AFGHAN			145	Secunder Kermani	AFGHAN/Kirmani (shorter)		1:21	10:36	18:09:02	0:57		Tony	r	ü
+	Q TROOPING				Sarah Campbell	TROOPING/Campbell (G-ALIVE)		1:47	12:23	18:10:23	1:26		Tony	r	ü
+	Q SPORT			210	Shabnam Younus Jewell			0:12	12:35	18:12:11			Anthony		
+	SPORT SCRIPT			200		RGU - England lose to SA comms TX TEN - HALEP on finally winning her first grand slam TX		1:58	14:33	18:12:23	0:25 0:18				
+	BOND GIRL							0:16	14:49	18:14:21			Tony	r	ü
+	END HEADS			410				0:23	15:12	18:14:37					ü
+		ENDRO													
+	DERBY			160				0:17					Neil		ü
+	Q HOY			230	ACT	Hoy Edward Act	36713	0:34			0:13	READY	Lesley	r	ü
+	Q HONOURS			180	Acts	HONOURS FARRON ACT HONOURS BEARD ACT		1:36			0:27 0:26	READY 	Oliver	r	ü
+	EVENING OUTPUT							0:09							
+	MOPED			170				0:20					Neil		ü
+	Q BELSEN			190	Charlotte Gallagher	BELSEN GALLAGHER VP		1:34			1:14				
+	Q Banknotes				Leigh Milner	banknotes milner vp		1:04			0:51			r	
+	POPE			155				0:14							
+	MAT		Aeberhard Pope climate  Ldn x					0:50							
+	Q Hoy vp							0:00							
+	Q Pope vp							0:00							

@@ -1,0 +1,14 @@
+version: '2'
+services:
+    eshq:
+        ports:
+            - '127.0.0.1:6002:5000'
+        restart: always
+        image: 'elastichq/elasticsearch-hq:latest'
+        networks:
+            - private
+networks:
+    private:
+        driver: bridge
+        ipam:
+            config: [{subnet: 192.168.248.16/29}]

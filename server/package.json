@@ -1,0 +1,35 @@
+{
+  "name": "fuzzysearchfinderapi",
+  "version": "1.0.0",
+  "description": "Fuzzy Search Finder Api",
+  "main": "index.js",
+  "scripts": {
+    "benchmark": "node benchmark/tests.js",
+    "compare": "node benchmark/compare.js",
+    "dev": "nodemon server.js",
+    "dev-test": "mocha --watch --recursive",
+    "prepush": "npm test",
+    "post-results": "node benchmark/build.js",
+    "test": "mocha --recursive"
+  },
+  "author": "Dan Clark",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^6.5.1",
+    "ajv-errors": "^1.0.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "fuzzyset.js": "0.0.5",
+    "lodash": "^4.17.10",
+    "number-to-words": "^1.2.3"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "husky": "^0.14.3",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.17.5",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "supertest": "^3.1.0"
+  }
+}

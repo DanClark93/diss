@@ -1,0 +1,26 @@
+<?php
+
+foreach(glob('*.rundown.json') as $rdj)
+{
+    $trj=str_replace('.rundown.json', '', basename($rdj)).'.transcript.json';
+
+    $inj=str_replace('.rundown.json', '', basename($rdj)).'.input.json';
+
+    echo "$rdj + $trj > $inj";
+
+    $rd=json_decode(file_get_contents($rdj));
+    $tr=json_decode(file_get_contents($trj));
+    #print_r($rd);
+    #print_r($tr);
+
+    $in=array(
+        "vpid" => "SJ3j82d",
+        "rundown" => $rd->retval->stories,
+        "words" => $tr->retval->words
+    );
+
+    file_put_contents($inj, json_encode($in));
+
+    $bytes=filesize($inj);
+    echo " ($bytes bytes)\n";
+}

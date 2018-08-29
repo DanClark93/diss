@@ -1,0 +1,126 @@
+{
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "properties": {
+    "vpid": {
+      "$id": "/properties/vpid",
+      "type": "string",
+      "minLength": 1,
+      "title": "The Vpid Schema ",
+      "default": "",
+      "examples": [
+        "SJ3j82d"
+      ]
+    },
+    "words": {
+      "$id": "/properties/words",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$id": "/properties/words/items",
+        "type": "object",
+        "properties": {
+          "start": {
+            "$id": "/properties/words/items/properties/start",
+            "type": "number",
+            "title": "The Start Schema ",
+            "default": 0,
+            "examples": [
+              0
+            ]
+          },
+          "confidence": {
+            "$id": "/properties/words/items/properties/confidence",
+            "type": "number",
+            "title": "The Confidence Schema ",
+            "default": 0,
+            "examples": [
+              0.949999988079071
+            ]
+          },
+          "end": {
+            "$id": "/properties/words/items/properties/end",
+            "type": "number",
+            "title": "The End Schema ",
+            "default": 0,
+            "examples": [
+              0.17000000178813934
+            ]
+          },
+          "word": {
+            "$id": "/properties/words/items/properties/word",
+            "type": "string",
+            "title": "The Word Schema ",
+            "default": "",
+            "examples": [
+              "you're"
+            ]
+          },
+          "punct": {
+            "$id": "/properties/words/items/properties/punct",
+            "type": "string",
+            "title": "The Punct Schema ",
+            "default": "",
+            "examples": [
+              "You're"
+            ]
+          },
+          "index": {
+            "$id": "/properties/words/items/properties/index",
+            "type": "integer",
+            "title": "The Index Schema ",
+            "default": 0,
+            "examples": [
+              0
+            ]
+          }
+        },
+        "required": ["start","confidence","end","word","punct","index"]
+      }
+    },
+    "rundown": {
+      "$id": "/properties/rundown",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$id": "/properties/rundown/items",
+        "type": "object",
+        "properties": {
+          "story": {
+            "$id": "/properties/rundown/items/properties/story",
+            "type": "string",
+            "title": "The Story Schema ",
+            "default": "",
+            "examples": [
+              "BONGS"
+            ]
+          },
+          "script": {
+            "$id": "/properties/rundown/items/properties/script",
+            "type": "string",
+            "title": "The Script Schema ",
+            "default": "",
+            "examples": [
+              ""
+            ]
+          }
+        }
+      }
+    }
+  },
+  "required": ["vpid", "words", "rundown"],
+  "errorMessage": {
+    "required": {
+      "vpid": "Input JSON must contain a string property named vpid",
+      "words": "Input JSON must contain a word array",
+      "rundown": "Input JSON must contain a rundown array"
+    },
+    "properties": {
+      "vpid": "Input JSON must contain a string property named vpid at least 1 character long",
+      "words": "Input JSON must contain a word array containing an array of word objects [start, confidence, end, word, punct, index]",
+      "rundown": "Input JSON must contain a rundown array containing an array of story objects"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+version: '2.2'
+services:
+  mine:
+    image: hotfuzz:latest
+    volumes:
+      - ./:/appdir
+    ports:
+      - "8080:8080"
